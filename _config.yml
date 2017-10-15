@@ -1,0 +1,23 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+theme:               jekyll-theme-lanyon
+
+# Setup
+title:               'Ryan Grier'
+tagline:             ''
+description:         ''
+url:                 http://lanyon.getpoole.com
+baseurl:             ''
+paginate:            5
+plugins:             [jekyll-paginate]
+
+# About/contact
+author:
+  name:              Ryan Grier
+  url:               https://twitter.com/rwgrier
+  email:             
+
+# Custom vars
+version:             1.0
