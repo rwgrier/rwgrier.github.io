@@ -56,5 +56,4 @@ In the next post, I’ll be discussing the app itself. I have the rough idea for
 Soon enough the real work (and fun) will begin.
 
 ## Other Posts in the Series
-
-[Part 1](/2017/05/12/data-sync-series-part-1/)
+[Part 1](/2017/05/12/data-sync-series-part-1/) | [Part 3](/2017/06/23/data-sync-series-part-3/) | [Part 4](/2017/09/01/data-sync-series-part-4/)

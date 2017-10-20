@@ -22,5 +22,4 @@ This series is going to be an experiment. I plan on writing a completely new app
 I have an idea for the project. I’m not sure which technologies I’ll use for syncing. I believe I have several options for the syncing technology, but that’s something I’ll weigh in a future blog post.
 
 ## Other Posts in the Series
-
-[Part 2](/2017/06/05/data-sync-series-part-2/)
+[Part 2](/2017/06/05/data-sync-series-part-2/) | [Part 3](/2017/06/23/data-sync-series-part-3/) | [Part 4](/2017/09/01/data-sync-series-part-4/)
