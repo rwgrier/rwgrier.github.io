@@ -39,4 +39,4 @@ I could start down this path and change my mind. Or I could get adventurous and 
 I really hope this next phase takes less time than it did to develop the base app. I feel pretty bad about this series taking this long. But sometimes life just gets in the way. 
 
 ## Other Posts in the Series
-[Part 1](/2017/05/12/data-sync-series-part-1/) | [Part 2](/2017/06/05/data-sync-series-part-2/) | [Part 3](https://medium.com/@rwgrier/data-sync-series-part-3-f4b9cfa86494)
+[Part 1](/2017/05/12/data-sync-series-part-1/) | [Part 2](/2017/06/05/data-sync-series-part-2/) | [Part 3](/2017/06/23/data-sync-series-part-3/)
