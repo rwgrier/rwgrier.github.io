@@ -5,7 +5,7 @@ date: '2018-02-02T17:00:00-05:00'
 tags: []
 ---
 
-![Photo by César Viteri](https://images.unsplash.com/photo-1509057199576-632a47484ece?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0d7ea2f5ce026a39fce1a301a5a165a2&auto=format&fit=crop&w=1051&q=80 "Photo by César Viteri")](https://unsplash.com/photos/693RRbiTAaI)
+[![Photo by César Viteri](https://images.unsplash.com/photo-1509057199576-632a47484ece?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=0d7ea2f5ce026a39fce1a301a5a165a2&auto=format&fit=crop&w=1051&q=80 "Photo by César Viteri")](https://unsplash.com/photos/693RRbiTAaI)
 
 Here are a list of books that I’ve read in January. It was more than I thought I would make it through, but there are a few caveats, I’ll explain below. 
 
