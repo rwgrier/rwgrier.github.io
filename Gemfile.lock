@@ -51,10 +51,10 @@ PLATFORMS
 
 DEPENDENCIES
   jekyll (~> 3.6.0)
-  jekyll-feed (~> 0.6)
+  jekyll-feed
   jekyll-paginate
   jekyll-theme-lanyon
   tzinfo-data
 
 BUNDLED WITH
-   1.15.4
+   1.16.1

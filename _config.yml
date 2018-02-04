@@ -10,7 +10,7 @@ description:         ''
 url:                 http://lanyon.getpoole.com
 baseurl:             ''
 paginate:            5
-plugins:             [jekyll-paginate]
+plugins:             [jekyll-paginate, jekyll-feed]
 
 # About/contact
 author:
