@@ -18,7 +18,7 @@ I think Apple really nailed it with SwiftUI. It looks so simple and intuitive. I
 
 Tonight, I had a chance to sit down and start tinkering with SwiftUI. I currently feel like I’m lost in the woods with some things. It’s a bit overwhelming at first. There’s a lot going on that I don’t know how to do yet (interaction with Timers and Core Data). I need to watch more of Apple’s videos and really dig into the code a bit more. 
 
-I’ve got plans to update both [MyCntdwn](https://apps.apple.com/us/app/mycntdwn/id293970065?ls=1) and [BeerStyles](https://apps.apple.com/us/app/beer-style-guidelines/id998139111?ls=1) to use SwiftUI (among other new features). I’m really hoping that I get good chunks of time this Summer to really dive in and learn the new stuff. 
+I’ve got plans to update both [MyCntdwn](https://apps.apple.com/us/app/mycntdwn/id293970065?ls=1) and [Beer Style Guidelines](https://apps.apple.com/us/app/beer-style-guidelines/id998139111?ls=1) to use SwiftUI (among other new features). I’m really hoping that I get good chunks of time this Summer to really dive in and learn the new stuff. 
 
 I just hope I have some time to actually make updates to my apps. Like for real this time. Things are so busy with the kids, that I rarely have much time to do this sort of thing anymore. 
 
