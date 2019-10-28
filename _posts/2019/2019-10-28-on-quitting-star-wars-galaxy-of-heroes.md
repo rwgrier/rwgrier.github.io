@@ -5,7 +5,6 @@ date: '2019-10-28T12:30:00-05:00'
 tags: []
 ---
 
-# On Quitting Star Wars Galaxy of Heroes
 I recently called it quits on [Star Wars Galaxy of Heroes](https://www.ea.com/games/starwars/galaxy-of-heroes). I had been playing it for almost four years. I know [I’ve posted](https://ryan.grier.co/2017/11/05/video-games-and-gaming/) about this game before. 
 
 This was a game that I had liked for the longest time. However, over the last year or so, they’ve started making some decisions that really didn’t sit well with me. 
