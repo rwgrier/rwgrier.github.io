@@ -2,7 +2,7 @@
 layout: post
 title: 'Hearthstone: Knights of the Frozen Throne'
 date: '2020-04-25T10:00:00-04:00'
-tags: []
+tags: [hearthstone, video games]
 ---
 
 This is another post about Hearthstone and beating another Solo Adventure. I’ve done these sort of posts before for various solo adventures ([One Night in Karazhan](https://ryan.grier.co/2016/10/21/hearthstone-one-night-in-karazhan-heroic/), [Blackrock Mountain](https://ryan.grier.co/2016/04/24/hearthstone-blackrock-mountain-heroic/), [The League of Explorers](https://ryan.grier.co/2016/04/22/hearthstone-the-league-of-explorers-heroic/) & [Curse of Naxxramas](https://ryan.grier.co/2016/04/03/hearthstone-curse-of-naxxramas-heroic/)). This isn’t the most recent adventure, I’m really behind on completing these. 

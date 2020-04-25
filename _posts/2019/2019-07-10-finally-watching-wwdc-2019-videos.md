@@ -2,7 +2,7 @@
 layout: post
 title: Finally Watching WWDC 2019 Videos
 date: '2019-07-10T19:30:00-05:00'
-tags: []
+tags: [ios, app development]
 ---
 
 
