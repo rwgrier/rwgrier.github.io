@@ -12,6 +12,6 @@ The other (included) guides from the Brewers Association are so old (2016 & 2017
 
 I’ve also fixed a few bugs within the app. But the largest change is the new guide being added. 
 
-Full list of release notes: [http://beerstyleguidelines.app/release-notes/2020.5.txt](http://beerstyleguidelines.app/release-notes/2020.5.txt)
+Full list of release notes: [https://beerstyleguidelines.app/release-notes/2020.5.txt](https://beerstyleguidelines.app/release-notes/2020.5.txt)
 
 Please enjoy the update. 
