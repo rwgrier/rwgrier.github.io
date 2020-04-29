@@ -15,8 +15,7 @@ Beer Style Guidelines is the perfect companion for any beer judge or home brewer
 
 Guides Included:
 - 2015 BJCP Style Guidelines
-- Brewers Association 2016 Beer Style Guidelines
-- Brewers Association 2017 Beer Style Guidelines
+- Brewers Association 2020 Beer Style Guidelines
 
 Mark any style as a favorite with easy access to it later. 
 
