@@ -2,9 +2,7 @@
 layout: post
 title: Homebrew Update
 date: '2015-01-22T12:00:22-05:00'
-tags:
-- homebrew
-- beer
+categories: [homebrew]
 tumblr_url: http://ryan.grier.co/post/108835241740/homebrew-update
 ---
 Just thought I would post an update about my adventures in home brewing.

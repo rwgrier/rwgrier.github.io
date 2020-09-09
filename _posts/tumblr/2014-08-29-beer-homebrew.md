@@ -2,7 +2,7 @@
 layout: post
 title: Beer - Homebrew
 date: '2014-08-29T16:30:29-04:00'
-tags: []
+categories: [homebrew]
 tumblr_url: http://ryan.grier.co/post/96110208658/beer-homebrew
 ---
 This Summer I’ve started Homebrewing. I brewed my first batch on Father’s Day. It all started when I read the book [The Kings County Distillery Guide to Urban Moonshining: How to Make and Drink Whiskey](https://www.amazon.com/gp/product/B00G50H7H8/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=B00G50H7H8&linkCode=as2&tag=ryangriercom-20&linkId=UYHVQBMRMLBVDSZ4). I like whiskey, but I can’t legally make whiskey. I also like beer and that’s [legal](https://www.homebrewersassociation.org/homebrewing-rights/statutes/Pennsylvania/) to make, so I thought I would try homebrew.

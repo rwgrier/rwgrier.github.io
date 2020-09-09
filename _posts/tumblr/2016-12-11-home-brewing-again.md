@@ -2,9 +2,7 @@
 layout: post
 title: Home Brewing Again
 date: '2016-12-11T10:44:30-05:00'
-tags:
-- homebrew
-- beer
+categories: [homebrew, beer]
 tumblr_url: http://ryan.grier.co/post/154333492979/home-brewing-again
 ---
 It’s been over a year since I last made a homebrew beer. The last batch I brewed was last October.

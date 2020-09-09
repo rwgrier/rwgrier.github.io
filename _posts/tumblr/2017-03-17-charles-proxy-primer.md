@@ -2,10 +2,7 @@
 layout: post
 title: Charles Proxy Primer
 date: '2017-03-17T15:29:47-04:00'
-tags:
-- charles proxy
-- iOS
-- development
+categories: [tools, development]
 tumblr_url: http://ryan.grier.co/post/158520255399/charles-proxy-primer
 ---
 I’ve been an iOS developer (professionally) for over six years. There is one constant in every iOS app that I’ve written for someone else. They all communicate with a web service to read and write data from the iOS app/client. Even my personal side project apps are moving from completely isolated on the device to talking to a web service.
