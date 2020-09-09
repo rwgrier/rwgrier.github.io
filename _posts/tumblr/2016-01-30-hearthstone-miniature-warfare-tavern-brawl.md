@@ -2,7 +2,11 @@
 layout: post
 title: Hearthstone - Miniature Warfare Tavern Brawl
 date: '2016-01-30T15:46:24-05:00'
-categories: [hearthstone, video-games]
+tags:
+- Hearthstone
+- video game
+- hearthpwn
+- Flickr
 tumblr_url: http://ryan.grier.co/post/138362210434/hearthstone-miniature-warfare-tavern-brawl
 ---
 This week’s Tavern Brawl in [Hearthstone](https://us.battle.net/hearthstone/en/) is called “Miniature Warfare”. The description is listed as: “That pesky Shrinkmeister turned all your Hearthstone cards into toys! Now all your minions are 1/1 and only cost (1) mana!”

@@ -2,7 +2,10 @@
 layout: post
 title: Beer Styles
 date: '2015-07-08T01:09:43-04:00'
-categories: [development]
+tags:
+- iOS
+- development
+- homebrew
 tumblr_url: http://ryan.grier.co/post/123525482694/i-recently-released-a-new-app-called-beer-styles
 ---
 

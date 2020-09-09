@@ -2,7 +2,7 @@
 layout: post
 title: Fitbit Flex
 date: '2014-07-17T16:00:12-04:00'
-categories: []
+tags: []
 tumblr_url: http://ryan.grier.co/post/92074215217/fitbit-flex
 ---
 I bought a [Fitbit Flex](https://www.fitbit.com/flex2) about a week ago. I really like it. My only complaint is that I keep looking at my wrist expecting to see a time.

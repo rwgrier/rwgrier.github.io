@@ -2,7 +2,10 @@
 layout: post
 title: Fibonacci Sequence
 date: '2016-03-25T07:46:16-04:00'
-categories: [development]
+tags:
+- Swift
+- fibonacci
+- development
 tumblr_url: http://ryan.grier.co/post/141655701184/fibonacci-sequence
 ---
 [Fibonacci Sequence](https://medium.com/@rwgrier/fibonacci-sequence-cf1feece4d62)

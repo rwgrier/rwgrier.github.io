@@ -2,7 +2,11 @@
 layout: post
 title: General Update
 date: '2015-06-30T09:26:50-04:00'
-categories: [development, homebrew]
+tags:
+- general
+- homebrew
+- ios
+- development
 tumblr_url: http://ryan.grier.co/post/122851393269/general-update
 ---
 It’s been a long time since I’ve posted anything here. I’m sorry about that.

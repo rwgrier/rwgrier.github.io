@@ -2,7 +2,11 @@
 layout: post
 title: Data Sync Series - Part 3
 date: '2017-06-23T17:00:00-04:00'
-categories: [development, sync-series]
+tags:
+- swift
+- sync
+- data
+- ios
 ---
 
 This is the third blog post in my new blog series on data syncing in an app. Links to all of the posts in the series are at the bottom of this post. 

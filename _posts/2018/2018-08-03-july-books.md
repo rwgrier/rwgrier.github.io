@@ -2,7 +2,7 @@
 layout: post
 title: July Books
 date: '2018-08-03T19:00:00-04:00'
-categories: [books]
+tags: []
 ---
 
 [![Photo by Aaron Burden](https://images.unsplash.com/photo-1533000971552-6a962ff0b9f9?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=43f0f16c398b7565e29afef4ce6e5082&auto=format&fit=crop&w=2467&q=80 "Photo by Aaron Burden")](https://unsplash.com/photos/535Npq1wFG8)

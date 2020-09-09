@@ -2,7 +2,7 @@
 layout: post
 title: Site Update and My Move From Tumblr
 date: '2017-10-20T17:00:00-04:00'
-categories: []
+tags: []
 ---
 
 [![Photo by Christopher Burns](https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?dpr=1&auto=compress,format&fit=crop&w=2550&h=&q=80&cs=tinysrgb&crop= "Photo by Christopher Burns")](https://unsplash.com/photos/8KfCR12oeUM)

@@ -2,7 +2,7 @@
 layout: post
 title: Books Read in February
 date: '2018-03-06T09:00:00-05:00'
-categories: [books]
+tags: []
 ---
 
 [![Photo by Syd Wachs](https://images.unsplash.com/photo-1470549638415-0a0755be0619?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=fca4fdf173544fec47eafc91aa1d9636&auto=format&fit=crop&w=1350&q=80 "Photo by Syd Wachs")](https://unsplash.com/photos/slItfWbhijc)

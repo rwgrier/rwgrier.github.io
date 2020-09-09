@@ -2,7 +2,7 @@
 layout: post
 title: My Smashing Pumpkin Ale Disaster
 date: '2014-11-28T12:00:16-05:00'
-categories: [homebrew]
+tags: []
 tumblr_url: http://ryan.grier.co/post/103813072416/my-smashing-pumpkin-ale-disaster
 ---
 My second batch of homebrew turned out to be bad. Last week, I ended up dumping over a case of [Smashing Pumpkin Ale](http://www.northernbrewer.com/smashing-pumpkin-ale-extract-kit). It just tasted bad. I have a number of theories on what may have gone wrong.

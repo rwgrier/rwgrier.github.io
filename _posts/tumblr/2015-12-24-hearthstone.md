@@ -2,7 +2,10 @@
 layout: post
 title: Hearthstone
 date: '2015-12-24T13:36:06-05:00'
-categories: [hearthstone, video-games]
+tags:
+- video games
+- blizzard
+- hearthstone
 tumblr_url: http://ryan.grier.co/post/135858829664/hearthstone
 ---
 [Hearthstone](https://us.battle.net/hearthstone/en/) is an awesome game and I am terrible at it.

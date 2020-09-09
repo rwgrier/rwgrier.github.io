@@ -2,7 +2,7 @@
 layout: post
 title: Jigsaw Puzzles
 date: '2018-03-25T21:00:00-04:00'
-categories: []
+tags: []
 ---
 
 [![Photo by Hans-Peter Gauster](https://images.unsplash.com/photo-1494059980473-813e73ee784b?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=a02f6067c00a2e7d578c02ece92ebbc5&auto=format&fit=crop&w=1649&q=80 "Photo by Hans-Peter Gauster")](https://unsplash.com/photos/3y1zF4hIPCg)

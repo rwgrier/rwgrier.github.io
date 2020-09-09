@@ -2,7 +2,7 @@
 layout: post
 title: Books Read in March/April
 date: '2018-05-12T21:00:00-04:00'
-categories: [books]
+tags: []
 ---
 [![Photo by Benjamin Ashton](https://images.unsplash.com/photo-1514513452089-17f8a9771ee8?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=b78b2a697c30bad401f96d55805f87e3&auto=format&fit=crop&w=2251&q=80 "Photo by Benjamin Ashton")](https://unsplash.com/photos/1mwPOXb_pB8)
 

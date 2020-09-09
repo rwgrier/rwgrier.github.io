@@ -2,7 +2,7 @@
 layout: post
 title: Showers app - Coming Soon
 date: '2014-03-25T12:30:12-04:00'
-categories: []
+tags: []
 tumblr_url: http://ryan.grier.co/post/80685688434/showers-app-coming-soon
 ---
 Showers is my new app.

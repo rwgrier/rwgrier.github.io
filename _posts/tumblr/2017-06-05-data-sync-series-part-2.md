@@ -2,7 +2,11 @@
 layout: post
 title: Data Sync Series - Part 2
 date: '2017-06-05T17:30:28-04:00'
-categories: [development, sync-series]
+tags:
+- swift
+- sync
+- data
+- ios
 tumblr_url: http://ryan.grier.co/post/161480570104/data-sync-series-part-2
 ---
 This is the second blog post in my new blog series on data syncing in an app. You can read the first one [here](/2017/05/12/data-sync-series-part-1/). This took me a little longer than I wanted, I got busy with the kids and end of year school stuff for them. Sorry for any delay.

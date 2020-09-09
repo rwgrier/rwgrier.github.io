@@ -2,7 +2,7 @@
 layout: post
 title: June Books - Reading is for Losers
 date: '2018-07-05T19:00:00-04:00'
-categories: [books]
+tags: []
 ---
 
 [![Photo by Dawn Armfield](https://images.unsplash.com/photo-1455747634646-0ef67dfca23f?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=c9a064c2be37cdedc05ded41c09293c7&auto=format&fit=crop&w=1567&q=80 "Photo by Dawn Armfield")](https://unsplash.com/photos/28v9cq7ytNU)

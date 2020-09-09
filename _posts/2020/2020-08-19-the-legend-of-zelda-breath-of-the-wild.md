@@ -2,7 +2,7 @@
 layout: post
 title: 'The Legend of Zelda: Breath of the Wild'
 date: '2020-08-19T21:30:00-04:00'
-categories: [zelda, video-games]
+tags: [video games, zelda]
 ---
 
 [![Photo by Ryan Quintal](https://images.unsplash.com/photo-1566577134624-6f6cc4bb272b?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2100&q=80"Photo by Ryan Quintal")](https://unsplash.com/photos/s7PhRjUJNeA)

@@ -2,7 +2,10 @@
 layout: post
 title: Transition
 date: '2016-08-03T20:51:08-04:00'
-categories: [work]
+tags:
+- DramaFever
+- Comcast
+- iOS
 tumblr_url: http://ryan.grier.co/post/148423677244/transition
 ---
 I haven’t written much lately. I’ve been in a bit of a transition. 

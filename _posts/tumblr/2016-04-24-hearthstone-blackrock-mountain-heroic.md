@@ -2,7 +2,8 @@
 layout: post
 title: 'Hearthstone: Blackrock Mountain (Heroic)'
 date: '2016-04-24T11:23:12-04:00'
-categories: [hearthstone, video-games]
+tags:
+- Hearthstone
 tumblr_url: http://ryan.grier.co/post/143324183494/hearthstone-blackrock-mountain-heroic
 ---
 I finished it! Finally!
