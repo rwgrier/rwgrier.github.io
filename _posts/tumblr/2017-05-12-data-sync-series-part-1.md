@@ -2,11 +2,7 @@
 layout: post
 title: Data Sync Series - Part 1
 date: '2017-05-12T18:00:02-04:00'
-tags:
-- Swift
-- sync
-- data
-- iOS
+categories: [development, sync-series]
 tumblr_url: http://ryan.grier.co/post/160598195602/data-sync-series-part-1
 ---
 I’ve been thinking about incorporating a data syncing component to my app MyCntdwn for a long time now. I have just never gotten around to it. It’s always been a daunting idea.

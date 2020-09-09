@@ -2,7 +2,7 @@
 layout: post
 title: Summer 2019 Development Goals
 date: '2019-07-19T12:30:00-05:00'
-tags: [ios, app development]
+categories: [development]
 ---
 
 I’ve made a set of goals for the Summer. In the recent past I have been bad about making goals. I’ve been so busy with life, that I’ve just tried hanging on and making it through. 

@@ -2,8 +2,7 @@
 layout: post
 title: Hearthstone: The League of Explorers (Heroic)
 date: '2016-04-22T16:00:09-04:00'
-tags:
-- Hearthstone
+categories: [hearthstone, video-games]
 tumblr_url: http://ryan.grier.co/post/143230051234/hearthstone-the-league-of-explorers-heroic
 ---
 Last week I finished another Hearthstone adventure on Heroic. Previously, I had finished the [Curse of Naxxramas on Heroic](/2016/04/03/hearthstone-curse-of-naxxramas-heroic/). I’m going through to finish them all.

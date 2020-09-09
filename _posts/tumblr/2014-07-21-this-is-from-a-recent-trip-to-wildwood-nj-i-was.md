@@ -2,7 +2,7 @@
 layout: post
 title: Wildwood, NJ
 date: '2014-07-21T08:44:32-04:00'
-tags: []
+categories: []
 tumblr_url: http://ryan.grier.co/post/92427180689/this-is-from-a-recent-trip-to-wildwood-nj-i-was
 ---
 

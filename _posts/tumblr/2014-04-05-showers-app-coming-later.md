@@ -2,7 +2,7 @@
 layout: post
 title: Showers app - Coming Later
 date: '2014-04-05T10:16:27-04:00'
-tags: []
+categories: []
 tumblr_url: http://ryan.grier.co/post/81777480280/showers-app-coming-later
 ---
 Well, this is embarrassing. Showers was to be my newest app. It has been rejected by Apple for being too simple. I tried the appeal process and the app is still rejected.

@@ -2,7 +2,7 @@
 layout: post
 title: Development
 date: '2014-12-08T12:30:13-05:00'
-tags: []
+categories: [development]
 tumblr_url: http://ryan.grier.co/post/104683493311/development
 ---
 I haven’t done much personal development in the past few months. I think that may change soon. I’m getting an itch to get back to it. I’m not really sure what exactly I want to work on though.
