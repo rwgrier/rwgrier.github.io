@@ -2,7 +2,7 @@
 layout: post
 title: Gaming Update
 date: '2018-06-01T01:00:00-04:00'
-tags: []
+categories: [video games]
 ---
 
 [![Photo by wu yi](https://images.unsplash.com/photo-1519888225640-4e937ce64761?ixlib=rb-0.3.5&ixid=eyJhcHBfaWQiOjEyMDd9&s=501834ad07f41271143850bbd85dec07&auto=format&fit=crop&w=1489&q=80 "Photo by wu yi")](https://unsplash.com/photos/WiLqkXbP1do)

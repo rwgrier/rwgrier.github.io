@@ -2,7 +2,7 @@
 layout: post
 title: DC Universe
 date: '2018-10-17T12:00:00-04:00'
-tags: []
+categories: [ios, app development]
 ---
 
 [DC Universe](https://itunes.apple.com/us/app/dc-universe/id1329018000) is a new product that my company ([Warner Bros. Digital Labs](https://wbdl.com)) recently shipped. 

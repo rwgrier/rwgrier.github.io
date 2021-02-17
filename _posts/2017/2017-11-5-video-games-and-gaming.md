@@ -2,7 +2,7 @@
 layout: post
 title: Video Games and Gaming
 date: '2017-11-05T15:00:00-05:00'
-tags: []
+categories: [video games]
 ---
 
 [![Photo by Ugur Akdemir](https://images.unsplash.com/photo-1492044715545-15ddedd84e5e?auto=format&fit=crop&w=1350&q=60&ixid=dW5zcGxhc2guY29tOzs7Ozs= "Photo by Ugur Akdemir")](https://unsplash.com/photos/5X39cfzKX3o)

@@ -2,7 +2,7 @@
 layout: post
 title: MyCntdwn Lives?
 date: '2020-12-16T20:00:00-04:00'
-tags: [ios, app development]
+categories: [ios, app development]
 ---
 
 Over a year ago, I [removed MyCntdwn from the App Store](https://ryan.grier.co/2019/10/22/sad-day/). But I’m not sure that’s the end of the story for MyCntdwn.  
