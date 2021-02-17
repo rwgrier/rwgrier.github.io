@@ -51,6 +51,12 @@ h1, h2, h3, h4, h5, h6 {
   letter-spacing: -.025rem;
 }
 
+@media (prefers-color-scheme: dark) {
+  h1, h2, h3, h4, h5, h6 {
+    color: #fff;
+  }
+}
+
 
 /*
  * Wrapper
@@ -104,9 +110,23 @@ h1, h2, h3, h4, h5, h6 {
   margin-bottom: 0;
   color: #505050;
 }
+
+@media (prefers-color-scheme: dark) {
+  .masthead-title {
+    color: #fff;
+  }
+}
+
 .masthead-title a {
   color: #505050;
 }
+
+@media (prefers-color-scheme: dark) {
+  .masthead-title a {
+    color: #fff;
+  }
+}
+
 .masthead-title small {
   font-size: 75%;
   font-weight: 400;
@@ -223,6 +243,12 @@ a.sidebar-nav-item:focus {
   cursor: pointer;
 }
 
+@media (prefers-color-scheme: dark) {
+  .sidebar-toggle {
+    background-color: #000;
+  }
+}
+
 .sidebar-toggle::before {
   display: inline-block;
   width: 32px;
@@ -313,6 +339,15 @@ a.sidebar-nav-item:focus {
 .post-title a {
   color: #303030;
 }
+
+@media (prefers-color-scheme: dark) {
+  .page-title,
+  .post-title,
+  .post-title a {
+    color: #fff;
+  }
+}
+
 .page-title,
 .post-title {
   margin-top: 0;
