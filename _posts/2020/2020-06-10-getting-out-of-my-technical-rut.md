@@ -2,7 +2,7 @@
 layout: post
 title: Getting Out of My Technical Rut
 date: '2020-06-10T18:30:00-04:00'
-tags: [ios, app development, books]
+categories: [ios, app development, books]
 ---
 I’ve spent about six months in a technical rut. Not really learning anything new iOS/tvOS/Swift-wise. I got a little complacent with the skills that I had. 
 

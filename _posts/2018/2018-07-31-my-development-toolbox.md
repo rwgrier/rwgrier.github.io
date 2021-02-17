@@ -2,7 +2,7 @@
 layout: post
 title: My Development Toolbox
 date: '2018-07-31T17:00:00-05:00'
-tags: []
+categories: [ios, app development]
 ---
 
 [![Photo by Barn Images](https://images.unsplash.com/photo-1426927308491-6380b6a9936f?ixlib=rb-0.3.5&s=1f99f0b8fbfdc25874345df49ff718b5&auto=format&fit=crop&w=2251&q=80 "Photo by Barn Images")](https://unsplash.com/photos/t5YUoHW6zRo)

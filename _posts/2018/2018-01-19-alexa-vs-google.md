@@ -2,7 +2,7 @@
 layout: post
 title: Alexa vs Google
 date: '2018-01-19T17:00:00-05:00'
-tags: []
+categories: [life]
 ---
 
 [![Photo by Kevin Bhagat](https://images.unsplash.com/photo-1511844870246-db93b833bfaa?auto=format&fit=crop&w=1050&q=80 "Photo by Kevin Bhagat")](https://unsplash.com/photos/TD0OOE8j8Jc)
