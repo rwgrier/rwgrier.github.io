@@ -11,6 +11,7 @@ url:                 https://ryan.grier.co
 baseurl:             ''
 paginate:            5
 plugins:             [jekyll-paginate, jekyll-feed]
+permalink:           /:year/:month/:day/:title/
 
 # About/contact
 author:
