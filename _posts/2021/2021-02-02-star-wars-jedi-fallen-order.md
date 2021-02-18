@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Star Wars Jedi: Fallen Order"
+title: 'Star Wars Jedi: Fallen Order'
 date: '2021-02-02T19:30:00-04:00'
 categories: [video games, star wars]
 ---

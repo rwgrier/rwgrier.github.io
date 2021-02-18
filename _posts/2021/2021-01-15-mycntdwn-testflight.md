@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "MyCndwn - TestFlight"
+title: MyCndwn - TestFlight
 date: '2021-01-15T12:30:00-04:00'
 categories: [life]
 ---
