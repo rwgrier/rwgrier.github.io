@@ -4,9 +4,12 @@ title: About Me
 permalink: /about/
 ---
 
-I am a software engineer who loves the challenges involved in software engineering. I started out as a Java developer and switched to mobile development (full time) a few years ago. I learned both iOS and Android on my own and in my free time.
+I am a software engineer who loves solving challenging problems. I started as a Java developer and transitioned to mobile development in 2010. 
 
-I spent the first 10 years of my career writing J2EE services for companies like Siemens and Comcast. Since 2010 I’ve been writing mobile apps for NAVTEQ (Nokia), Barclaycard US and Comcast Interactive Media.
+I am a highly motivated developer. I initially learned iOS on my own. Since then I've grown as a developer and have worked on and led projects that have been featured on the App Store multiple times.   
+
+You can view my [resume here](https://www.dropbox.com/s/o6uo7eie9hedp35/RyanGrier-Resume.pdf?dl=0).
+
 
 Social Media:
 
