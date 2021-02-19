@@ -5,7 +5,7 @@ date: '2020-09-08T21:00:00-04:00'
 categories: [video games, pokemon]
 ---
 
-[![Photo by Jie](https://images.unsplash.com/photo-1542779283-429940ce8336?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80"Photo by Jie")](https://unsplash.com/photos/dkFJST9zZZo)
+[![Photo by Jie](https://images.unsplash.com/photo-1542779283-429940ce8336?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80)](https://unsplash.com/photos/dkFJST9zZZo)
 
 This past weekend, I finished [Pokémon Sword](https://en.wikipedia.org/wiki/Pokémon_Sword_and_Shield). It was a good game. I bought the game at launch and haven’t really gotten into it until a few weeks ago. 
 
