@@ -7,7 +7,7 @@ permalink:           pretty
 title:               'Ryan Grier'
 tagline:             ''
 description:         'A site where I write (poorly) about a lot of dumb stuff.'
-url:                 https://ryan.grier.co/
+url:                 https://ryan.grier.co
 baseurl:             ''
 paginate:            5
 plugins:             [jekyll-paginate, jekyll-feed]
