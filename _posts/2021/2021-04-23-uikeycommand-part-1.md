@@ -5,13 +5,13 @@ date: '2021-04-21T12:00:00-05:00'
 categories: [ios, app development]
 ---
 
-This post is the first in a series of three on UIKeyCommands on iOS. In this first post, we’ll go over `UIKeyCommand` at a high level.
+This post is the first in a series of three on UIKeyCommands on iOS. In this first post, we’ll go over `UIKeyCommand` at a high level. 
 
 ## What are UIKeyCommands? 
 
 UIKeyCommands represent a key press (or combination) of key presses on a hardware keyboard that will trigger an action. In short, you can think of these as keyboard shortcuts. The system already has a few built-in keyboard shortcuts. Some of these are keyboard shortcuts are Cut (⌘ + x), Copy (⌘ + c), and Paste (⌘ + v).
 
-Beginning in iOS 7, Apple started allowing developers to implement their keyboard shortcuts. The system handles Cut, Copy and Paste and developers won’t need to implement these. 
+Beginning in iOS 7, Apple started allowing developers to implement keyboard shortcuts. The system already handles Cut, Copy and Paste and developers won’t need to implement these. 
 
 These keyboard shortcuts have been around for a few years. So, it’s easy to see how other developers have implemented these. A great way to discover what keyboard shortcuts apps have is to launch the app, and then hold down the command (⌘) key.  Here’s an example from my app [Beer Style Guidelines](https://www.beerstyleguidelines.app). 
 
@@ -20,7 +20,7 @@ These keyboard shortcuts have been around for a few years. So, it’s easy to se
 
 ## How do I implement my own UIKeyCommand?
 
-There are several parts to implement UIKeyCommands in your app. First, is the UIKeyCommand object itself. Then these UIKeyCommands need to be integrated into the app. 
+There are two parts to implement UIKeyCommands in your app. First, is the `UIKeyCommand` object itself. Then these UIKeyCommands need to be integrated into the app. 
 
 The [initializer for UIKeyCommand](https://developer.apple.com/documentation/uikit/uikeycommand/3358593-init "UIKeyCommand init") has a lot going on. You don’t need to use every parameter. Here are the minimum parameters to create a UIKeyCommand object. Those parameters are: 
 
@@ -46,7 +46,7 @@ Download and run the sample app. Once launched, hold down on the Command key (�
 
 ## Testing in the simulator. 
 
-If nothing shows up, and you’re testing this in the simulator, you need to enable “Send Keyboard Input to Device” in the simulator. This can be done through the menu system by selecting I/O → Input → Send Keyboard Input to Device. Or, you can click on this button in the toolbar (below) of the simulator. Without doing this, sometimes the keyboard shortcuts can be lost, and it will seem like the keyboard shortcuts are not working. 
+If nothing shows up, and you’re testing this in the simulator, you may need to enable “Send Keyboard Input to Device” in the simulator. This can be done through the menu system by selecting I/O → Input → Send Keyboard Input to Device. Or, you can click on this button in the toolbar (below) of the simulator. Without doing this, sometimes the keyboard shortcuts can be lost, and it will seem like the keyboard shortcuts are not working. 
 
 ![Send Keyboard Input to Device](/public/images/2021-uikeycommand-1/send-keyboard-input-to-device.png)
 
