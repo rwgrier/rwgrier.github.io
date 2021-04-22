@@ -9,7 +9,7 @@ This post is the first in a series of three on UIKeyCommands on iOS. In this fir
 
 ## What are UIKeyCommands? 
 
-UIKeyCommands represent a key press (or combination) of key presses on a hardware keyboard that will trigger an action. In short, you can think of these as keyboard shortcuts. The system already has a few built-in keyboard shortcuts. Some of these are keyboard shortcuts are Cut (⌘ + x), Copy (⌘ + c), and Paste (⌘ + v).
+UIKeyCommands represent a key press (or combination of key presses) on a hardware keyboard that will trigger an action. In short, you can think of these as keyboard shortcuts. The system already has a few built-in keyboard shortcuts. Some of these are keyboard shortcuts are Cut (⌘ + x), Copy (⌘ + c), and Paste (⌘ + v).
 
 Beginning in iOS 7, Apple started allowing developers to implement keyboard shortcuts. The system already handles Cut, Copy and Paste and developers won’t need to implement these. 
 
