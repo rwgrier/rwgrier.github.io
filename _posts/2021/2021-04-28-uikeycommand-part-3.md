@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UIKeyCommands — Part 3: macOS Catalyst Menu Items'
+title: 'UIKeyCommand — Part 3: macOS Catalyst Menu Items'
 date: '2021-04-28T19:30:00-04:00'
 categories: [ios, app development]
 ---
