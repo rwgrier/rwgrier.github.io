@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'UIKeyCommands — Part 2: Split View Controller'
+title: 'UIKeyCommand — Part 2: Split View Controller'
 date: '2021-04-26T19:45:00-04:00'
 categories: [ios, app development]
 ---
