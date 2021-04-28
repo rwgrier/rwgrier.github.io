@@ -5,7 +5,7 @@ date: '2021-04-26T19:45:00-04:00'
 categories: [ios, app development]
 ---
 
-In the [first post](/2021/04/21/uikeycommand-part-1/) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much. 
+In the [first post](/2021/04/22/uikeycommand-part-1/) in this UIKeyCommands series, we went over the basics of UIKeyCommands and adding keyboard shortcuts to an app. Adding keyboard shortcuts to a real app can be a little more complicated, but not much. 
 
 ## First, some background
 
@@ -47,4 +47,4 @@ This may feel a bit overwhelming. But it’s not very difficult. The sample app 
 There’s one more post in this series. Next time, we’ll stray away from iOS slightly to use UIKeyCommands to add menu items to a macOS Catalyst app. 
 
 ## Other Posts in the Series
-[Part 1](/2021/04/21/uikeycommand-part-1/) 
+[Part 1](/2021/04/22/uikeycommand-part-1/) 
