@@ -48,3 +48,4 @@ There’s one more post in this series. Next time, we’ll stray away from iOS s
 
 ## Other Posts in the Series
 [Part 1](/2021/04/22/uikeycommand-part-1/) 
+[Part 1](/2021/04/21/uikeycommand-part-1/) | [Part 3](/2021/04/28/uikeycommand-part-3/) 

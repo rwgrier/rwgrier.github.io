@@ -54,3 +54,4 @@ That’s it. Keyboard shortcuts are straightforward to set up and get working in
 
 ## Other Posts in the Series
 [Part 2](/2021/04/26/uikeycommand-part-2/) 
+[Part 2](/2021/04/21/uikeycommand-part-2/) | [Part 3](/2021/04/28/uikeycommand-part-3/) 
