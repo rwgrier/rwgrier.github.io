@@ -53,5 +53,4 @@ If nothing shows up, and you’re testing this in the simulator, you may need to
 That’s it. Keyboard shortcuts are straightforward to set up and get working in your apps. Next time we’ll get a little more in-depth on UIKeyCommand. 
 
 ## Other Posts in the Series
-[Part 2](/2021/04/26/uikeycommand-part-2/) 
-[Part 2](/2021/04/21/uikeycommand-part-2/) | [Part 3](/2021/04/28/uikeycommand-part-3/) 
+[Part 2](/2021/04/26/uikeycommand-part-2/) | [Part 3](/2021/04/28/uikeycommand-part-3/) 

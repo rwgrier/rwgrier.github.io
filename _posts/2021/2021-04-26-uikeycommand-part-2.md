@@ -47,5 +47,4 @@ This may feel a bit overwhelming. But it’s not very difficult. The sample app 
 There’s one more post in this series. Next time, we’ll stray away from iOS slightly to use UIKeyCommands to add menu items to a macOS Catalyst app. 
 
 ## Other Posts in the Series
-[Part 1](/2021/04/22/uikeycommand-part-1/) 
-[Part 1](/2021/04/21/uikeycommand-part-1/) | [Part 3](/2021/04/28/uikeycommand-part-3/) 
+[Part 1](/2021/04/22/uikeycommand-part-1/) | [Part 3](/2021/04/28/uikeycommand-part-3/) 
