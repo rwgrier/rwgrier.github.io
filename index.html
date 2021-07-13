@@ -3,23 +3,31 @@ layout: default
 title: Home
 ---
 
-<div class="posts">
-  {% for post in paginator.posts %}
-  <div class="post">
-    <h1 class="post-title">
-      <a href="{{ post.url | absolute_url }}">
-        {{ post.title }}
-      </a>
-    </h1>
+{% for post in paginator.posts %}
+{% capture read_time %}
+  {{ post .content | number_of_words | divided_by: 180 }}
+{% endcapture %}
 
-    <span class="post-date">{{ post.date | date: "%B %e, %Y" }}</span>
-
+<div class="mx-auto max-w-2xl py-10">
+  <div class="text-4xl post-title">
+    <a href="{{ post.url }}">{{ post.title }}</a>
+  </div>
+  <div class="text-lg text-gray-400 py-2">{{ post.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
+    {{ read_time }}
+  {% else %}
+    1
+  {% endif %} min read</div>
+  <div class="text-lg text-gray-600">
     {{ post.content }}
   </div>
-  {% endfor %}
+  <!-- <div class="text-gray-500 pt-5">
+    <a href="{{ post.url }}">Read More...</a>
+  </div> -->
 </div>
+{% endfor %}
 
-<div class="pagination">
+
+<!-- <div class="pagination">
   {% if paginator.next_page %}
     <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
   {% else %}
@@ -34,4 +42,4 @@ title: Home
   {% else %}
     <span class="pagination-item newer">Newer</span>
   {% endif %}
-</div>
+</div> -->
