@@ -4,42 +4,40 @@ title: Home
 ---
 
 {% for post in paginator.posts %}
+
 {% capture read_time %}
-  {{ post .content | number_of_words | divided_by: 180 }}
+{{ post .content | number_of_words | divided_by: 180 }}
 {% endcapture %}
 
 <div class="mx-auto max-w-2xl py-10">
   <div class="text-4xl post-title">
     <a href="{{ post.url }}">{{ post.title }}</a>
   </div>
-  <div class="text-lg text-gray-400 py-2">{{ post.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
+  <div class="text-lg text-gray-400 pb-5">{{ post.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
     {{ read_time }}
-  {% else %}
+    {% else %}
     1
-  {% endif %} min read</div>
+    {% endif %} min read</div>
   <div class="text-lg text-gray-600">
     {{ post.content }}
   </div>
-  <!-- <div class="text-gray-500 pt-5">
-    <a href="{{ post.url }}">Read More...</a>
-  </div> -->
 </div>
 {% endfor %}
 
 
-<!-- <div class="pagination">
+<div class="flex items-center justify-around space-x-10 py-4 text-lg">
   {% if paginator.next_page %}
-    <a class="pagination-item older" href="{{ paginator.next_page_path | absolute_url }}">Older</a>
+  <a href="{{ paginator.next_page_path }}">Older</a>
   {% else %}
-    <span class="pagination-item older">Older</span>
+  <span class="text-gray-200">Older</span>
   {% endif %}
   {% if paginator.previous_page %}
-    {% if paginator.page == 2 %}
-      <a class="pagination-item newer" href="{{ '/' | absolute_url }}">Newer</a>
-    {% else %}
-      <a class="pagination-item newer" href="{{ paginator.previous_page_path | absolute_url }}">Newer</a>
-    {% endif %}
+  {% if paginator.page == 2 %}
+  <a href="{{ '/' }}">Newer</a>
   {% else %}
-    <span class="pagination-item newer">Newer</span>
+  <a href="{{ paginator.previous_page_path }}">Newer</a>
   {% endif %}
-</div> -->
+  {% else %}
+  <span class="text-gray-200">Newer</span>
+  {% endif %}
+</div>
