@@ -13,12 +13,12 @@ title: Home
   <div class="text-4xl post-title">
     <a href="{{ post.url }}">{{ post.title }}</a>
   </div>
-  <div class="text-lg text-gray-400 pb-5">{{ post.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
+  <div class="text-lg text-gray-400 dark:text-white pb-5">{{ post.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
     {{ read_time }}
     {% else %}
     1
     {% endif %} min read</div>
-  <div class="text-lg text-gray-600">
+  <div class="text-lg text-gray-600 dark:text-white">
     {{ post.content }}
   </div>
 </div>

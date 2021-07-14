@@ -10,7 +10,7 @@ layout: default
   <div class="text-4xl post-title">
     {{ page.title }}
   </div>
-  <div class="text-lg text-gray-400 pb-5">{{ page.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
+  <div class="text-lg text-gray-400 dark:text-white pb-5">{{ page.date | date: "%B %e, %Y" }} | {% if read_time != '0' %}
     {{ read_time }}
     {% else %}
     1
@@ -28,7 +28,7 @@ layout: default
 
 </div>
 
-<div class="text-lg text-gray-600">
+<div class="text-lg text-gray-600 dark:text-white">
   {{ content }}
 </div>
 </div>
