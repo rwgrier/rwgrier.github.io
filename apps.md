@@ -21,5 +21,4 @@ Mark any style as a favorite with easy access to it later.
 
 Tap the left and right arrows to quickly move to the next section of the style guide.
 
-
 [App Store](https://itunes.apple.com/us/app/beer-styles-bjcp-2015/id998139111?ls=1&mt=8)

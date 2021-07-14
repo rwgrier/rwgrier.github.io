@@ -24,10 +24,22 @@ nav a {
     color: inherit;
 }
 
-h2 {
+h1 {
     color: rgb(49, 49, 49);
     font-weight: 400;
-    font-size: 30px;
+    font-size: 40px;
+}
+
+h2 {
+  color: rgb(49, 49, 49);
+  font-weight: 400;
+  font-size: 30px;
+}
+
+h3 {
+  color: rgb(49, 49, 49);
+  font-weight: 400;
+  font-size: 25px;
 }
 
 /* Code */
