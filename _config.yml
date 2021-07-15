@@ -13,7 +13,7 @@ paginate:            5
 plugins:             
   - jekyll-paginate
   - jekyll-feed
-  - jekyll-postcss
+  # - jekyll-postcss
 permalink:           /:year/:month/:day/:title/
 
 # About/contact
