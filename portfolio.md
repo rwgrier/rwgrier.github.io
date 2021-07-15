@@ -89,4 +89,8 @@ Here are some of the personal apps that I've worked on since 2010.
     <img src="/public/images/app-icons/markitup.png" class="rounded-lg w-60">
     MarkIt Up
   </div>
+  <div class="justify-items-center place-items-center">
+    <img src="/public/images/app-icons/dsstore-cleaner.png" class="rounded-lg w-60">
+    DS_Store Cleaner
+  </div>
 </div>
