@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-Below are some of the apps that I've worked on both personally and professionally. Not all of them are available anymore. The ones that are available, I've 
+Below are some of the apps that I've worked on both professionally and personally. Not all of them are available anymore. The ones that are available, I've included links to them on the App Store. 
 
 ## Professional App
 
@@ -58,7 +58,7 @@ Here are some of the professional apps that I've worked on since 2010.
 
 ## Personal App
 
-Here are some of the personal apps that I've worked on since 2010. 
+Here are some of the personal apps that I've worked on. 
 
 <div class="flex grid grid-cols-3 grid-rows-3 gap-4 place-items-center">
   <div class="justify-items-center place-items-center">
