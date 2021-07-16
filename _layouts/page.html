@@ -2,7 +2,12 @@
 layout: default
 ---
 
-<div class="page">
-  <h1 class="page-title">{{ page.title }}</h1>
-  {{ content }}
+<div class="mx-auto max-w-2xl py-10">
+  <div class="text-4xl post-title">
+    {{ page.title }}
+  </div>
+
+  <div class="text-lg text-gray-600 dark:text-white">
+    {{ content }}
+  </div>
 </div>

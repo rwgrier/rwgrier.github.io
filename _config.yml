@@ -5,12 +5,15 @@ permalink:           pretty
 
 # Setup
 title:               'Ryan Grier'
-tagline:             ''
+tagline:             'Personal Website'
 description:         'A site where I write (poorly) about a lot of dumb stuff.'
 url:                 https://ryan.grier.co
 baseurl:             ''
 paginate:            5
-plugins:             [jekyll-paginate, jekyll-feed]
+plugins:             
+  - jekyll-paginate
+  - jekyll-feed
+  # - jekyll-postcss
 permalink:           /:year/:month/:day/:title/
 
 # About/contact
