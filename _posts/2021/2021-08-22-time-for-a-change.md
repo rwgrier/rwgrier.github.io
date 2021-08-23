@@ -7,8 +7,6 @@ categories: [work, life]
 
 [![Photo by Chris Lawton](https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)](https://unsplash.com/photos/5IHz5WhosQE)
 
-Time for a Change
-
 I’ve changed employers. 
 
 I’ve been working for Warner Bros. Digital Labs (which used to be DramaFever) essentially for 5 years. I took a small break there a few years ago, but almost immediately came back.
