@@ -21,7 +21,7 @@ Siri was also frustrating to use. I don’t know if the service has gotten worse
 
 I just got frustrated with it all. 
 
-So what did I do? We’ll, if you ready the title of this post, you already know I’ve moved to Sonos. We have Google Minis throughout our house and the work well, but I want something that sounds great. I spend a lot of time working in my office and listen to music for most of that time. I want it to sound great. 
+So what did I do? Well, if you ready the title of this post, you already know I’ve moved to Sonos. We have Google Minis throughout our house and the work well, but I want something that sounds great. I spend a lot of time working in my office and listen to music for most of that time. I want it to sound great. 
 
 I ended up buying a pair of [Sonos One SLs](https://www.sonos.com/en-us/shop/two-room-set-one-sl.html) and a [Sonos Sub](https://www.sonos.com/en-us/shop/sub.html). If I’m being honest, this is overkill for my office. But, wow, it sounds great.
 
