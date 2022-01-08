@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Will Smith\'s "The Best Shape of My Life"'
+title: 'Will Smith - "The Best Shape of My Life"'
 date: '2022-01-08T11:00:00-04:00'
 categories: [tv shows]
 ---
