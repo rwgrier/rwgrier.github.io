@@ -33,4 +33,4 @@ I hope I get a chance to write about the parks we visited soon.  If/when I do, I
 
 ## Related posts:
 
- - [Gatorland](2022/02/11/gatorland/)
+ - [Gatorland](/2022/02/11/gatorland/)
