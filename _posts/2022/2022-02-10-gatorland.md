@@ -8,7 +8,7 @@ categories: [life]
 [![Photo by J Dean](https://images.unsplash.com/photo-1609100845184-ac55393ff4a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)](https://unsplash.com/photos/EzC2LSHhgiI)
 
 
-On our recent [trip to Florida](https://ryan.grier.co/2022/02/04/trip-to-florida/), we went to a few theme parks. We had planned on Universal Studios and Walt Disney World. 
+On our recent [trip to Florida](/2022/02/04/trip-to-florida/), we went to a few theme parks. We had planned on Universal Studios and Walt Disney World. 
 
 I’m still not sure how we ended up at [Gatorland](https://www.gatorland.com) one afternoon, but we did. I think my daughter saw a billboard for it one day while driving from the soccer field back to our hotel.
 
