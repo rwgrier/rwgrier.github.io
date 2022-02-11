@@ -10,7 +10,12 @@ Below are some of the apps that I've worked on both professionally and personall
 
 Here are some of the professional apps that I've worked on since 2010. 
 
+### iOS
 <div class="flex grid grid-cols-3 grid-rows-3 gap-4 place-items-center">
+  <div class="justify-items-center place-items-center">
+    <a href="https://apps.apple.com/us/app/slice-pizza-delivery-pick-up/id699705083"><img src="/public/images/app-icons/slice.png" class="rounded-lg w-60"></a>
+    Slice
+  </div>
   <div class="justify-items-center place-items-center">
     <a href="https://apps.apple.com/us/app/dc-universe-infinite/id1329018000"><img src="/public/images/app-icons/dcuniverse.png" class="rounded-lg w-60"></a>
     DC UNIVERSE INFINITE
@@ -39,9 +44,13 @@ Here are some of the professional apps that I've worked on since 2010.
     <img src="/public/images/app-icons/trapster.jpg" class="rounded-lg w-60">
     Trapster
   </div>
-  </div>
+</div>
+  
+<p>&nbsp;</p>
 
-  <div class="flex grid grid-cols-2 grid-rows-3 gap-4 place-items-center">
+### tvOS
+
+<div class="flex grid grid-cols-2 gap-4 place-items-center">
   <div class="justify-items-center place-items-center">
     <a href="https://apps.apple.com/us/app/boomerang-cartoons-movies/id1199519834#?platform=appleTV"><img src="/public/images/app-icons/boomerang-tvos.png" class="rounded-lg w-90"></a>
     Boomerang tvOS
@@ -55,6 +64,7 @@ Here are some of the professional apps that I've worked on since 2010.
     Dramafever tvOS
   </div>
 </div>
+<p>&nbsp;</p>
 
 ## Personal App
 
