@@ -31,3 +31,6 @@ We had a great time in Florida. I kinda wish that we could have stayed longer. S
 
 I hope I get a chance to write about the parks we visited soon.  If/when I do, I’ll update this post with links to the new posts. 
 
+## Related posts:
+
+ - [Gatorland](2022/02/11/gatorland/)
