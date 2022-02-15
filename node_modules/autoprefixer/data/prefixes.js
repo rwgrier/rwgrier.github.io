@@ -522,23 +522,26 @@ f(prefixFullscreen, { match: /x(\s#2|$)/ }, browsers =>
 )
 
 // File selector button
-prefix(['::file-selector-button'], {
-  selector: true,
-  feature: 'fullscreen',
-  browsers: [
-    'chrome 89',
-    'edge 89',
-    'firefox 82',
-    'opera 75',
-    'safari 14.1',
-    'android 89',
-    'and_chr 89',
-    'op_mob 63',
-    'and_ff 82',
-    'ios_saf 14.5',
-    'samsung 15.0'
-  ]
-})
+let prefixFileSelectorButton = require('caniuse-lite/data/features/css-file-selector-button')
+
+f(prefixFileSelectorButton, browsers =>
+  prefix(['::file-selector-button'], {
+    selector: true,
+    feature: 'file-selector-button',
+    browsers
+  })
+)
+
+// :autofill
+let prefixAutofill = require('caniuse-lite/data/features/css-autofill')
+
+f(prefixAutofill, browsers =>
+  prefix([':autofill'], {
+    selector: true,
+    feature: 'css-autofill',
+    browsers
+  })
+)
 
 // Tab size
 let prefixTabsize = require('caniuse-lite/data/features/css3-tabsize')
@@ -583,7 +586,7 @@ f(prefixIntrinsic, browsers =>
 )
 
 f(prefixIntrinsic, { match: /x|\s#4/ }, browsers =>
-  prefix(['fill', 'fill-available', 'stretch'], {
+  prefix(['fill', 'fill-available'], {
     props: sizeProps,
     feature: 'intrinsic-width',
     browsers
@@ -594,6 +597,18 @@ f(prefixIntrinsic, { match: /x|\s#5/ }, browsers =>
   prefix(['fit-content'], {
     props: sizeProps,
     feature: 'intrinsic-width',
+    browsers
+  })
+)
+
+// Stretch value
+
+let prefixStretch = require('caniuse-lite/data/features/css-width-stretch')
+
+f(prefixStretch, browsers =>
+  prefix(['stretch'], {
+    props: sizeProps,
+    feature: 'css-width-stretch',
     browsers
   })
 )
