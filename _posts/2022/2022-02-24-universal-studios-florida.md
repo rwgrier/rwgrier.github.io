@@ -11,7 +11,7 @@ In January, we took a [trip to Florida](/2022/02/04/trip-to-florida/). While we 
 
 This post is about our trip to Universal Studios. 
 
-We went to Universal Studios three days while we were in Florida. We visited both [Islands of Adventure](https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure) and [Universal Studios Florida](https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida). Three days is the perfect amount of time to make your way through both of these parks. 
+We went to Universal Studios for three days while we were in Florida. We visited both [Islands of Adventure](https://www.universalorlando.com/web/en/us/theme-parks/islands-of-adventure) and [Universal Studios Florida](https://www.universalorlando.com/web/en/us/theme-parks/universal-studios-florida). Three days is the perfect amount of time to make your way through both of these parks. 
 
 On our first day there, we went to Islands of Adventure. Islands of Adventure is a great park. They have plenty of thrill rides for the (older) kids and adults. There are also something’s for younger kids, but we skipped most of that. 
 
