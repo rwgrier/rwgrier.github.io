@@ -35,4 +35,4 @@ I hope I get a chance to write about the parks we visited soon.  If/when I do, I
 
  - [Gatorland](/2022/02/11/gatorland/)
  - [Universal Studios (Flordia)](/2022/02/25/universal-studios-florida/)
- - [Walt Disney World](/2022/03/14/walt-disney-world/)
+ - [Walt Disney World](/2022/03/15/walt-disney-world/)
