@@ -29,9 +29,9 @@ I started with Apple's Support chat system. This didn't work out. The advice the
 
 Later that evening, I set up a call with Apple. I chatted with several nice folks at Apple. I was on the phone for over an hour and talked to three different people. The only thing we were able to determine was:
 
-1. I was indeed paying for AppleCare+ on these two devices. (I knew that)
-2. The state of these purchases was stuck in limbo. 
-3. The folks on the phone had no idea how to fix it. 
+- I was indeed paying for AppleCare+ on these two devices. (I knew that)
+- The state of these purchases was stuck in limbo. 
+- The folks on the phone had no idea how to fix it. 
 
 The last person I talked to said they they were personally taking ownership of this issue and should have it resolved shortly. They were going to call me back in two weeks to verify that things were taken care of. 
 
