@@ -25,4 +25,10 @@
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{{ '/public/apple-touch-icon-precomposed.png' | absolute_url }}">
   <link rel="shortcut icon" href="{{ '/public/favicon.ico' | absolute_url }}">
   <link rel="alternate" type="application/rss+xml" title="RSS" href="{{ '/atom.xml' | absolute_url }}">
+  
+  <script src="https://unpkg.com/@telemetrydeck/sdk/dist/telemetrydeck.min.js" defer></script>
+  <script>
+    window.td = window.td || [];
+    td.push(['app', 'E71CEA1A-F9C4-471E-9EED-E2C4D034ED06'], ['user', 'anonymous'], ['signal']);
+  </script>
 </head>
