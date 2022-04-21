@@ -1,6 +1,6 @@
 {
   "devDependencies": {
     "@tailwindcss/typography": "^0.4.1",
-    "tailwindcss": "^2.2.4"
+    "tailwindcss": "^2.2.19"
   }
 }
