@@ -1,10 +1,7 @@
 const defaultTheme = require("tailwindcss/defaultTheme");
 
 module.exports = {
-  purge: {
-    enabled: true,
-    content: ['./**/*.html', './**/*..scss', './**/*..css', './**/*..js', './**/*..md'],
-  },
+  content: ['./**/*.html', './**/*..scss', './**/*..css', './**/*..js', './**/*..md'],
   darkMode: 'media',
   theme: {
     extend: {
