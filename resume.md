@@ -14,15 +14,13 @@ I am a highly motivated developer. I initially learned iOS on my own. Since then
 You can download a version of this resume [here](/public/files/RyanGrier-Resume.pdf).
 
 ## Experience
-### Warner Bros. Digital Labs
-**Sr Software Engineer (iOS)** | 
-Jan 2019 - Present
-- Contributor on iOS team to design and develop multiple iOS and tvOS apps utilizing Swift, iOS 11+, Storyboards, Auto Layout, and Realm.
-- Lead iOS developer on DC Universe and [DC UNIVERSE INFINITE](https://apps.apple.com/us/app/dc-universe/id1329018000). 
-- Lead iOS developer on [Boomerang - Cartoons & Movies](https://apps.apple.com/us/app/boomerang-cartoons-movies/id1199519834).
-- Led efforts to design and develop comic book streaming mechanism iOS for DC Universe and DC UNIVERSE INFINITE.
-- Developed multiple internal libraries utilized by both DC Universe, DC UNIVERSE INFINITE and Boomerang
-- Boomerang and DC Universe have both been [featured](https://apps.apple.com/us/story/id1437315987) on the App Store [multiple](https://apps.apple.com/us/story/id1454561068) [times](https://apps.apple.com/us/story/id1477638429).
+### Slice
+**Staff iOS Engineer (iOS)** | 
+Aug 2021 - Present
+- Contributor on Consumer iOS team to design and develop [Slice](https://apps.apple.com/us/app/slice-pizza-delivery-pick-up/id699705083) iOS app utilizing Swift, SwiftUI, iOS 14+, RxSwift, and Combine.
+- Leading accessibility efforts to make iOS App ADA compliant.
+- Leading efforts to identify and reduce teams technical debt.
+- Contributor on SwiftUI-based component library.
 
 ### Freelance 
 **Freelance Engineer** | 
@@ -31,6 +29,16 @@ Noc 2007 - Present
 - Designed and developed The Man’s Zen and Skiddlywags iOS apps for Annubis Productions utilizing Objective­C, iOS 3.x, AVFoundation, and OCUnit.
 - Designed and developed dozens of websites for [ColdTree Creative](https://www.coldtree.com/) utilizing PHP, MySQL, JQuery, CSS, and HTML.
 - Designed and developed a number of websites for additional companies utilizing PHP, MySQL, JQuery, CSS, and HTML.
+
+### Warner Bros. Digital Labs
+**Sr Software Engineer (iOS)** | 
+Jan 2019 - Aug 2021
+- Contributor on iOS team to design and develop multiple iOS and tvOS apps utilizing Swift, iOS 11+, Storyboards, Auto Layout, and Realm.
+- Lead iOS developer on DC Universe and [DC UNIVERSE INFINITE](https://apps.apple.com/us/app/dc-universe/id1329018000). 
+- Lead iOS developer on [Boomerang - Cartoons & Movies](https://apps.apple.com/us/app/boomerang-cartoons-movies/id1199519834).
+- Led efforts to design and develop comic book streaming mechanism iOS for DC Universe and DC UNIVERSE INFINITE.
+- Developed multiple internal libraries utilized by both DC Universe, DC UNIVERSE INFINITE and Boomerang
+- Boomerang and DC Universe have both been [featured](https://apps.apple.com/us/story/id1437315987) on the App Store [multiple](https://apps.apple.com/us/story/id1454561068) [times](https://apps.apple.com/us/story/id1477638429).
 
 ### Comcast 
 **Principal iOS Engineer** | 
