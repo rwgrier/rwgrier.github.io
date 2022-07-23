@@ -2,7 +2,7 @@
 layout: post
 title: 'Beer Style Guidelines 2022.2'
 date: '2022-04-13T20:30:00-04:00'
-categories: [ios, app development, beer]
+categories: [ios, app development]
 ---
 
 Beer Style Guidelines 2022.2 has been released. 

@@ -2,7 +2,7 @@
 layout: post
 title: 'Walt Disney World'
 date: '2022-03-14T21:00:00-04:00'
-categories: [life]
+categories: [vacation]
 ---
 
 [![Photo by Jose Mizrahi](https://images.unsplash.com/photo-1632708428395-90f8b5639be3?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1653&q=80)](https://unsplash.com/photos/AVZGjxcHVRA)

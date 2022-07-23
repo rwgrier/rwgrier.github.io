@@ -2,7 +2,7 @@
 layout: post
 title: MyCndwn - TestFlight
 date: '2021-01-15T12:30:00-04:00'
-categories: [life]
+categories: [ios, app development]
 ---
 
 This past weekend, MyCntdwn took a step forward. I sent a new build of it to Apple’s [TestFlight](https://en.wikipedia.org/wiki/TestFlight). It’s the first time a MyCntdwn build has been uploaded to TestFlight in years. 

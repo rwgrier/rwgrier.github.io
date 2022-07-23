@@ -2,7 +2,7 @@
 layout: post
 title: 'Universal Studios (Florida)'
 date: '2022-02-24T20:30:00-05:00'
-categories: [life]
+categories: [vacation]
 ---
 
 [![Photo by Aditya Vyas](https://images.unsplash.com/photo-1618945372420-2470ece5277c?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2340&q=80)](https://unsplash.com/photos/HCKVHAEbkus)

@@ -2,7 +2,7 @@
 layout: post
 title: 'Vacationing️'
 date: '2021-05-31T17:05:00-04:00'
-categories: [life]
+categories: [vacation]
 ---
 
 I spent the last few days on vacation. We didn’t go anywhere (other than a soccer tournament - in the rain), the kids had school and my wife was working. So, what did I spend my time doing? Writing code. Obviously…

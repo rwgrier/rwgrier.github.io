@@ -2,7 +2,7 @@
 layout: post
 title: Pokémon Sword
 date: '2020-09-08T21:00:00-04:00'
-categories: [video games, pokemon]
+categories: [video games]
 ---
 
 [![Photo by Jie](https://images.unsplash.com/photo-1542779283-429940ce8336?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2250&q=80)](https://unsplash.com/photos/dkFJST9zZZo)

@@ -2,7 +2,7 @@
 layout: post
 title: 'Trip to Florida'
 date: '2022-02-03T20:30:00-04:00'
-categories: [life]
+categories: [vacation]
 ---
 
 [![Photo by Jorge Vasconez](https://images.unsplash.com/photo-1524594081293-190a2fe0baae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2352&q=80)](https://unsplash.com/photos/CpeUoLVTAs8)

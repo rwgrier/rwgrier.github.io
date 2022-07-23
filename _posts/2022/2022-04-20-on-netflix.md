@@ -2,7 +2,7 @@
 layout: post
 title: 'On Netflix'
 date: '2022-04-20T19:45:00-04:00'
-categories: [life, movies, tv shows]
+categories: [movies, tv shows]
 ---
 
 To preface, we’ve been Netflix subscribers since the DVD days. I am not one to share our Netflix password either. 

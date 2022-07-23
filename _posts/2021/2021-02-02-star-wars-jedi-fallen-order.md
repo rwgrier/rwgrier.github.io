@@ -2,7 +2,7 @@
 layout: post
 title: 'Star Wars Jedi: Fallen Order'
 date: '2021-02-02T19:30:00-04:00'
-categories: [video games, star wars]
+categories: [video games]
 ---
 
 I recently finished playing through [Star Wars Jedi: Fallen Order](https://en.wikipedia.org/wiki/Star_Wars_Jedi:_Fallen_Order). What a good game. 

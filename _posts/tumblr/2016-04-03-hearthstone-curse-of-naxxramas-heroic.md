@@ -2,8 +2,7 @@
 layout: post
 title: Hearthstone: Curse of Naxxramas (Heroic)
 date: '2016-04-03T17:30:41-04:00'
-tags:
-- hearthstone
+categories: [video games]
 tumblr_url: http://ryan.grier.co/post/142199696594/hearthstone-curse-of-naxxramas-heroic
 ---
 I’ve finally beaten the Hearthstone: Curse of Naxxramas adventure on Heroic. It’s been a huge pain in the butt, but I did it.

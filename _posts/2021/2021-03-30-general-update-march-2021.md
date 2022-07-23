@@ -2,7 +2,7 @@
 layout: post
 title: 'General Update: March 2021'
 date: '2021-03-30T21:00:00-05:00'
-categories: [life, books, video games, app development]
+categories: [books, video games, app development]
 ---
 
 It’s been a busy month. I’m not even sure where the month went. I figured I’d post a general update on what I’ve been up to. 

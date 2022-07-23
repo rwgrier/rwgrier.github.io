@@ -2,7 +2,7 @@
 layout: post
 title: MyCntdwn 4 Update
 date: '2014-08-05T12:00:22-04:00'
-tags: []
+categories: [ios, app development]
 tumblr_url: http://ryan.grier.co/post/93881786435/mycntdwn-4-update
 ---
 I’m still working on MyCntdwn 4. I promise. Really. I’ve got a lot of tasks that I am slowly working through. I’m in the middle of making it a proper Universal app. I’m probably about 60% through this process. Some issues have come up while working on this, but I’ve been able to manage so far.

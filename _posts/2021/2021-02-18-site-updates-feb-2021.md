@@ -2,7 +2,7 @@
 layout: post
 title: 'Site Updates (Feb 2021)'
 date: '2021-02-18T19:30:00-04:00'
-categories: [website]
+categories: [blog]
 ---
 
 [![Photo by Mark König](https://images.unsplash.com/photo-1593505681742-8cbb6f44de25?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=2378&q=80)](https://unsplash.com/photos/Uu5fnOkFAdA)

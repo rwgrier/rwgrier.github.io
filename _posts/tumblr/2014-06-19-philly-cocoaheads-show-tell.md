@@ -2,7 +2,7 @@
 layout: post
 title: Philly CocoaHeads Show & Tell
 date: '2014-06-19T13:33:38-04:00'
-tags: []
+categories: [ios, app development]
 tumblr_url: http://ryan.grier.co/post/89275282394/philly-cocoaheads-show-tell
 ---
 I presented at last week’s [Philly CocoaHeads](http://phillycocoa.org) meet up. Presented is a bit strong. I showed off a few things to those in attendance. I was in front of the group for about 10 minutes.

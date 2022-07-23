@@ -2,7 +2,7 @@
 layout: post
 title: Beer Style Guidelines 2020.5 Released
 date: '2020-04-28T22:30:00-04:00'
-categories: [ios, app development, beer]
+categories: [ios, app development]
 ---
 My latest release of [Beer Style Guidelines](https://apps.apple.com/us/app/beer-styles-bjcp-2015/id998139111?ls=1) has just gone out.
 

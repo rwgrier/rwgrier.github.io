@@ -2,7 +2,7 @@
 layout: post
 title: Showers app - Trying Again
 date: '2014-04-25T12:30:03-04:00'
-tags: []
+categories: [ios, app development]
 tumblr_url: http://ryan.grier.co/post/83825447680/showers-app-trying-again
 ---
 I’m giving Showers another shot.

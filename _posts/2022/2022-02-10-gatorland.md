@@ -2,7 +2,7 @@
 layout: post
 title: 'Gatorland'
 date: '2022-02-10T20:30:00-04:00'
-categories: [life]
+categories: [vacation]
 ---
 
 [![Photo by J Dean](https://images.unsplash.com/photo-1609100845184-ac55393ff4a5?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2940&q=80)](https://unsplash.com/photos/EzC2LSHhgiI)

@@ -2,7 +2,7 @@
 layout: post
 title: 'Site Updates (Jul 2021)'
 date: '2021-07-16T09:30:00-04:00'
-categories: [website]
+categories: [blog]
 ---
 
 [![Photo by Daniel McCullough](https://images.unsplash.com/photo-1503387762-592deb58ef4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2689&q=80)](https://unsplash.com/photos/HtBlQdxfG9k)

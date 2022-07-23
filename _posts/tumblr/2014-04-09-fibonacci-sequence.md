@@ -2,7 +2,7 @@
 layout: post
 title: Fibonacci Sequence
 date: '2014-04-09T11:48:00-04:00'
-tags: []
+categories: []
 tumblr_url: http://ryan.grier.co/post/82199655993/fibonacci-sequence
 ---
 The [Fibonacci sequence](https://en.wikipedia.org/wiki/Fibonacci_number) is a special sequence of numbers. The first two numbers are 0 and 1. The numbers in the sequence after that build on these first two numbers. The pattern is the next number in the sequence is the sum of the two previous numbers.

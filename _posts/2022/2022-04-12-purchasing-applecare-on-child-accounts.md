@@ -2,7 +2,7 @@
 layout: post
 title: 'Purchasing AppleCare+ on Child Accounts'
 date: '2022-04-12T16:00:00-04:00'
-categories: [life, Apple]
+categories: [life]
 ---
 
 In February we got new iPhones for me and two of the kids. My wife wanted to get the back of her current phone fixed before upgrading to a new phone. 

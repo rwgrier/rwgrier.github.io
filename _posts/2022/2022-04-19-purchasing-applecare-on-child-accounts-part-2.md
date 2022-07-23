@@ -2,7 +2,7 @@
 layout: post
 title: 'Purchasing AppleCare+ on Child Accounts Part 2'
 date: '2022-04-19T20:00:00-04:00'
-categories: [life, Apple]
+categories: [life]
 ---
 
 This is the second and final blog post about purchasing AppleCare+ on Child Accounts. [Part one](/2022/04/12/purchasing-applecare-on-child-accounts/) outlined the saga. I wanted to follow up in a post and mention how things turned out. 

@@ -2,9 +2,7 @@
 layout: post
 title: 'Hearthstone: One Night in Karazhan (Heroic)'
 date: '2016-10-21T01:59:01-04:00'
-tags:
-- heathstone
-- video game
+categories: [video games]
 tumblr_url: http://ryan.grier.co/post/152102929534/hearthstone-one-night-in-karazhan-heroic
 ---
 This past weekend, I finished the Hearthsone adventure One Night in Karazhan on heroic difficulty. Honestly, it wasn’t that tough. The adventure itself was a pretty easy one.

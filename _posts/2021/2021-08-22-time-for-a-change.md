@@ -2,7 +2,7 @@
 layout: post
 title: 'Time For a Change'
 date: '2021-08-22T20:30:00-04:00'
-categories: [work, life]
+categories: [work]
 ---
 
 [![Photo by Chris Lawton](https://images.unsplash.com/photo-1477414348463-c0eb7f1359b6?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1500&q=80)](https://unsplash.com/photos/5IHz5WhosQE)

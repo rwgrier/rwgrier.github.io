@@ -2,11 +2,7 @@
 layout: post
 title: Setting up Charles Proxy on Apple TV (tvOS)
 date: '2016-09-28T18:23:46-04:00'
-tags:
-- tvOS
-- apple tv
-- development
-- charles proxy
+categories: [tvos, app development]
 tumblr_url: http://ryan.grier.co/post/151072009679/setting-up-charles-proxy-on-apple-tv-tvos
 ---
 I use [Charles Proxy](https://www.charlesproxy.com) as one of my development tools. I have done so for years. It’s invaluable to me. If you do any sort of client development that calls any sort of web service, you should look into Charles Proxy too.

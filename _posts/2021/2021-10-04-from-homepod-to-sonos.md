@@ -2,7 +2,7 @@
 layout: post
 title: 'From HomePod to Sonos'
 date: '2021-10-04T21:30:00-04:00'
-categories: [life, homepod, sonos]
+categories: [homepod, sonos]
 ---
 
 [![Photo by Alex Ghizila](https://images.unsplash.com/photo-1594419015530-4676f41c4bb9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2089&q=80)](https://unsplash.com/photos/HeP8bGoLx-U)
