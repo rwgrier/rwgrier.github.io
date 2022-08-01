@@ -22,6 +22,6 @@ I normally don’t read the reviews. I just happened across this review and it r
 
 I’ve got one more major release that I’m working on. I’m still hoping that I’ll get it done this Summer. 
 
-Full list of release notes: <a href="https://www.beerstyleguidelines.app/release-notes/2022.4.txt">https://www.beerstyleguidelines.app/release-notes/2022.4.txt</a>
+Full list of release notes: [https://www.beerstyleguidelines.app/release-notes/2022.4.txt](https://www.beerstyleguidelines.app/release-notes/2022.4.txt)
 
 🍺
