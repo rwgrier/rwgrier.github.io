@@ -1,13 +1,7 @@
 This is the personal website for Ryan Grier. 
 
-In order to run the side from code. 
+This site is static and doesn't require any special software to run. The following technologies are used:
 
-1. `bundle install`
-2. `npm install`
-3. `bundle exec jekyll serve`
+- HTML
+- Bootstrap - Frontend toolkit (CSS)
 
-In order to generate a new tailwind.css file, run this command. 
-
-```
-NODE_ENV=production npx tailwindcss -c tailwind.config.js -o public/css/tailwind.css --minify
-```
