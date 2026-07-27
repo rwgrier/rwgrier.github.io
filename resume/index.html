@@ -1,279 +1,311 @@
 <!doctype html>
 <html lang="en">
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1">
-		
-		<title>Ryan Grier - Resume</title>  
-		<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-sRIl4kxILFvY47J16cr9ZwB07vP4J8+LH7qKQnuqkuIAvNWLzeN8tE5YBujZqJLB" crossorigin="anonymous">
-		<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.8/dist/js/bootstrap.bundle.min.js" integrity="sha384-FKyoEForCGlyvwx9Hj09JcYn3nv7wiPVlz7YYwJrWVcXK/BmnVDxM+D2scQbITxI" crossorigin="anonymous"></script>
-		<link rel="stylesheet" href="../css/style.css">
-
-		<link rel="me" href="https://mastodon.social/@rwgrier">
-
-		<script src="../js/color-modes.js"></script>
-	</head>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
-	<body>
-		<header>
-			<nav class="navbar navbar-expand-lg">
-			  <div class="container">
-				<a class="navbar-brand" href="../">Ryan Grier</a>
-				<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
-				  <span class="navbar-toggler-icon"></span>
-				</button>
-				<div class="collapse navbar-collapse" id="navbarSupportedContent">
-				  <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-					<li class="nav-item">
-					  <a class="nav-link" aria-current="page" href="../">Home</a>
+	<title>Ryan Grier — Resume</title>
+	<meta name="description" content="Resume of Ryan Grier - Staff iOS Engineer with over 20 years of software development experience.">
+	
+	<link rel="me" href="https://mastodon.social/@rwgrier">
+	<link rel="stylesheet" href="../css/style.css">
+	
+	<script>
+		(function() {
+			const savedTheme = localStorage.getItem('theme');
+			if (savedTheme) {
+				document.documentElement.setAttribute('data-theme', savedTheme);
+			}
+		})();
+
+		function toggleTheme() {
+			const currentTheme = document.documentElement.getAttribute('data-theme') || 
+				(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+			const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+			document.documentElement.setAttribute('data-theme', newTheme);
+			localStorage.setItem('theme', newTheme);
+		}
+	</script>
+</head>
+
+<body>
+	<div class="site-container">
+		
+		<!-- Header Nav -->
+		<header class="top-nav">
+			<a class="brand-title" href="../">Ryan Grier</a>
+			<nav>
+				<ul class="nav-links">
+					<li><a class="nav-link" href="../">Home</a></li>
+					<li><a class="nav-link active" href="#">Resume</a></li>
+					<li>
+						<button class="theme-toggle-btn" onclick="toggleTheme()" aria-label="Toggle theme">
+							<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+								<circle cx="12" cy="12" r="5"></circle>
+								<line x1="12" y1="1" x2="12" y2="3"></line>
+								<line x1="12" y1="21" x2="12" y2="23"></line>
+								<line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+								<line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+								<line x1="1" y1="12" x2="3" y2="12"></line>
+								<line x1="21" y1="12" x2="23" y2="12"></line>
+								<line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+								<line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+							</svg>
+						</button>
 					</li>
-					<li class="nav-item">
-					  <a class="nav-link active" href="../resume/">Resume</a>
-					</li>
-					<li class="nav-item">
-					  <a class="nav-link" href="https://www.ryangrier.blog/">(Micro) Blog</a>
-					</li>
-				  </ul>
-				</div>
-			  </div>
+				</ul>
 			</nav>
 		</header>
-		
-		<main>
-			<div class="blog-post py-5 px-5 col-md-8 mx-auto">
-				<div class="container">
-					<h2>Summary</h2>
-					<article class="blog-post">
-						<p>
-							I am a highly motivated developer. I started as a Java developer. When the iOS SDK was announced, I taught myself how to write for iOS. I launched my first app in the App Store a few months after the App Store launched. In 2010, I transitioned from Java development to iOS development full-time. Since then, I’ve grown as a developer and have worked on and led projects featured on the App Store multiple times.
 
-						</p>
-						<p>	
-							You can download a version of this resume <a href="../downloads/RyanGrier-Resume.pdf">here</a>. 
-						</p>
-					</article>
-					
-					<h2>Experience</h2>
-					<h3>Slice</h3>
-					<article>
-						<p>
-							<b>Staff iOS Engineer</b> | Aug 2021 - Present 
-						</p>
-
-						<ul>
-							<li>Contributor to Command Center iOS team to design and develop Owner's Portal iOS app utilizing Swift, SwiftUI, Swift Testing, iOS 15+, RxSwift, and Combine.</li>
-							<li>Contributor to Consumer iOS team to design and develop iOS app utilizing Swift, SwiftUI, Quick/Nimble iOS 15+, RxSwift, and Combine.</li>
-							<li>Designed and implemented card-scanning software using Apple’s Vision Framework.</li>
-							<li>Lead accessibility efforts to make the iOS App ADA-compliant.</li>
-							<li>Lead efforts to identify and reduce teams' technical debt.</li>
-							<li>Contributor to SwiftUI-based component library.</li>
-							<li>Winner of the Fall 2022 and overall 2022 Slice Hackathons</li>
-						</ul>
-					</article>
-					
-					<h3>Freelance</h3>
-					<article>
-						<p>
-							<b>Freelance Engineer</b> | Nov 2007 - Present 
-						</p>
-					
-						<ul>
-							<li>Developed a ChatBot proof of concept for a gaming engine using OpenAI and ChatGPT for Warrior Lion Media.</li>
-							<li>Provided development expertise Factoids iOS app for The Wayne Group utilizing Objective­-C, iOS 5.x, Storyboards, and Core Data.</li>
-							<li>Designed and developed The Man’s Zen and Skiddlywags iOS apps for Annubis Productions utilizing Objective­C, iOS 3.x, AVFoundation, and OCUnit.</li>
-							<li>Designed and developed dozens of websites for <a href="https://www.coldtree.com/">ColdTree Creative</a> utilizing PHP, MySQL, JQuery, CSS, and HTML.</li>
-							<li>Designed and developed several websites for additional companies utilizing PHP, MySQL, JQuery, CSS, and HTML.</li>
-						</ul>
-					</article>
-					
-					<h3>Warner Bros. Digital Labs</h3>
-					<article>
-						<p>
-							<b>Sr Software Engineer (iOS)</b> | Jan 2019 - Aug 2021
-						</p>
-					
-						<ul>
-							<li>Contributor on iOS team to design and develop multiple iOS and tvOS apps utilizing Swift, iOS 11+, Storyboards, Auto Layout, and Realm.</li>
-							<li>Lead iOS developer on DC Universe and <a href="https://apps.apple.com/us/app/dc-universe/id1329018000?ref=ryangrier.com">DC UNIVERSE INFINITE</a>.</li>
-							<li>Lead iOS developer on <a href="https://apps.apple.com/us/app/boomerang-cartoons-movies/id1199519834?ref=ryangrier.com">Boomerang - Cartoons & Movies</a>.</li>
-							<li>Led efforts to design and develop a comic book streaming mechanism iOS for DC Universe and DC UNIVERSE INFINITE.</li>
-							<li>Developed multiple internal libraries utilized by DC Universe, DC UNIVERSE INFINITE, and Boomerang.</li>
-							<li>Boomerang and DC Universe have been <a href="https://apps.apple.com/us/story/id1437315987?ref=ryangrier.com">featured</a> on the App Store <a href="https://apps.apple.com/us/story/id1454561068?ref=ryangrier.com">multiple</a> <a href="https://apps.apple.com/us/story/id1477638429?ref=ryangrier.com">times</a>.</li>
-						</ul>
-					</article>
-					
-					<h3>Comcast</h3>
-					<article>
-						<p>
-							<b>Principal iOS Engineer</b> | Oct 2018 - Jan 2019
-						</p>
-					
-						<ul>
-							<li>Contributor on <a href="https://apps.apple.com/us/app/xfinity-home/id418965252?ref=ryangrier.com">Xfinity Home iOS app</a></li>
-							<li>Contributor on Xfinity Home Video team</li>
-						</ul>
-					</article>
-					
-					<h3>Warner Bros. Digital Labs</h3>
-					<article>
-						<p>
-							<b>Software Engineer (iOS)</b> | Jul 2016 - Oct 2018
-						</p>
-					
-						<ul>
-							<li>Contributor on iOS team to design and develop multiple iOS and tvOS apps utilizing Objective-C, Swift, iOS 10+, Storyboards, Auto Layout, and Realm.</li>
-							<li>Led efforts to rewrite the DramaFever tvOS app from the ground up.</li>
-							<li>Contributor on Boomerang - Cartoons & Movies to deliver initial app acceleratedly.</li>
-							<li>Led efforts to design and develop a comic book reader for iOS and tvOS for DC Universe.</li>
-							<li>Led efforts to design and develop a comic book download mechanism for iOS and tvOS for DC Universe.</li>
-							<li>Contributor to DC Universe in all other aspects of the app.</li>
-						</ul>
-					</article>
-					
-					<h3>Comcast Interactive Media</h3>
-					<article>
-						<p>
-							<b>Principal iOS Engineer</b> | Sep 2013 - Jul 2016
-						</p>
-					
-						<ul>
-							<li>Led team of developers (locally and offsite) to design and develop Xfinity Home iOS mobile app utilizing Objective-C, Swift, iOS 8+, Storyboards, Auto Layout, HAL (Hypertext Application Language), and Core Data.</li>
-							<li>Led efforts to design and develop 24/7 Video Recording in the iOS app.</li>
-							<li>Designed and developed a remote logging service that enables application health monitoring.</li>
-							<li>Participated in multiple lab weeks to explore new ideas in the IoT (Internet of Things) space.</li>
-							<li>Led efforts to automate the iOS build system for Xfinity Home and other Comcast iOS apps.</li>
-							<li>Presented automated iOS build system at local CocoaHeads chapter meeting.</li>
-						</ul>
-					</article>
-					
-					<h3>Barclaycard</h3>
-					<article>
-						<p>
-							<b>Mobile Engineer Tech Lead</b> | Dec 2011 - Sep 2013
-						</p>
-					
-						<ul>
-							<li>Led team of developers to design and develop Mobile Payments app for iOS utilizing Objective-C, iOS 5+, Storyboards, SQLite, and Paydiant SDK.</li>
-							<li>Provided mobile and web-service rapid prototypes to prove technologies for business utilizing Objective-C, Java (Android), PhoneGap, HTML5, JQuery Mobile, Bump SDK, CoreData, and RestKit (JSON).</li>
-							<li>Designed and developed Android service, analytics, and session management layers of the Barclaycard US Android servicing app.</li>
-							<li>Designed and developed an internal colleague mapping app for iOS utilizing Objective-C, iOS 5., RestKit (JSON), TBXML (XML), and CoreData.</li>
-							<li>Designed and developed Peek functionality for iOS utilizing Objective-C, iOS 5.x, and RestKit (JSON). A <a href="https://patents.google.com/patent/US20130318592">patent was granted</a> for this work.</li>
-						</ul>
-					</article>
-					
-					<h3>NAVTEQ</h3>
-					<article>
-						<p>
-							<b>Senior Mobile Engineer</b> | Nov 2010 - Dec 2011
-						</p>
-					
-						<ul>
-							<li>Designed and developed NAVTEQ Mapping SDK for iOS utilizing Objective-C, iOS 3.x, YAJL (JSON), and OCUnit.</li>
-							<li>Designed and developed iOS test harness for testing SDK functionality utilizing Objective-C, iOS 3.x, YAJL (JSON), and OCUnit.</li>
-							<li>Assisted Trapster iOS app transition from Google MapKit to NAVTEQ SDK. Trapster had over 14 million users.</li>
-							<li>Led efforts to automate iOS build and testing systems.</li>
-						</ul>
-					</article>
-					
-					<h3>Guideworks/Comcast</h3>
-					<article>
-						<p>
-							<b>Engineer 4</b> | Oct 2005 - Nov 2010
-						</p>
-					
-						<ul>
-							<li>Developed Comcast’s MyDVR product, delivering functionality while driving improvement in code testability, utilizing Java 1.5, Oracle 10g, Hibernate, Spring Framework, XFire (SOAP), JBoss, JUnit, JMeter, and SoapUI.</li>
-							<li>Built web application test harness to demonstrate MyDVR functionality using JSP, Ajax, XFire (SOAP), Spring Framework, and Tomcat.</li>
-							<li>Developed Integrated Search and Browse for Comcast’s Guide, utilizing Java 1.5, JAXB, and JBoss.</li>
-							<li>Facilitated the move from CVS to SVN and from Ant to Maven.</li>
-							<li>Trained and served as a certified Scrum Master.</li>
-						</ul>
-					</article>
-					
-					<h3>Siemens Medical Solutions</h3>
-					<article>
-						<p>
-							<b>Software Engineer</b> | Apr 2004 - Oct 2005
-						</p>
-					
-						<ul>
-							<li>Worked on the Soarian Financials Architecture team. Soarian Financials is a billing system used in hospitals. Helped with the conversion from Microsoft J++ to Java 1.4. This conversion included converting various parts of the security and user layers from older proprietary systems to new ones.</li>
-							<li>Contributed to applications using Agile methodologies such as Test Driven Design, Pair Programming, and Scrum.</li>
-						</ul>
-					</article>
-					
-					<h3>CentraView, LLC</h3>
-					<article>
-						<p>
-							<b>Java Programmer</b> | Sep 2003 - Apr 2004
-						</p>
-					
-						<ul>
-							<li>Technical lead in developing company’s Customer Relationship Management (CRM) package utilizing Java, Enterprise Java Beans, Java Server Pages, MySQL, Apache Struts, JBoss Application Server, and Linux.</li>
-							<li>Designed and developed the build process for the company CRM package using Apache Ant.</li>
-							<li>Designed and developed the company’s license authentication process using Apache Axis SOAP.</li>
-						</ul>
-					</article>
-					
-					<h3>Appligent</h3>
-					<article>
-						<p>
-							<b>Programmer</b> | Sep 2002 - Sep 2003
-						</p>
-					
-						<ul>
-							<li>Designed and developed the company’s evaluation software distribution system utilizing Java, Enterprise Java Beans, Java Server Pages, Servlets, JBoss Application Server, and Linux.</li>
-							<li>Maintained MySQL databases for web application systems.</li>
-							<li>Assisted in solving network, hardware, and software troubleshooting.</li>
-						</ul>
-					</article>
-					
-					<h3>IBSi</h3>
-					<article>
-						<p>
-							<b>Programmer Analyst</b> | Jul 2000 - Aug 2002
-						</p>
-					
-						<ul>
-							<li>Assisted in creating, developing, and maintaining the company’s internal Customer Relationship Management (CRM) application (YouRelate) utilizing Java, Enterprise Java Beans, and Java Server Pages.</li>
-							<li>Maintained the company website.</li>
-						</ul>
-					</article>
-					
-					<h2>Education</h2>
-					<h3>Penn State Great Valley</h3>
-					<article>
-						<p>
-							<b>Masters, Software Engineering</b> | 2002 - 2004
-						</p>
-					</article>
-					
-					<h3>Millersville University of Pennsylvania</h3>
-					<article>
-						<p>
-							<b>Bachelor’s, Computer Science</b> | 1997 - 2001
-						</p>
-					</article>
-					
-					<h2>Patents</h2>
-					<article>
-						<p>
-							<a href="https://patents.google.com/patent/US20130318592?ref=ryangrier.com">US11424930B2</a> - Systems and methods for providing account information
-						</p>
-					</article>
-				</div>
+		<!-- Resume Header -->
+		<main class="hero">
+			<h1 class="hero-title">Resume</h1>
+			<p class="hero-bio">
+				Staff iOS Engineer with over 20 years of software development experience. Self-taught iOS developer since the SDK launched in 2008, full-time mobile engineer since 2010. Proven track record leading projects featured on the App Store multiple times.
+			</p>
+			<div class="action-group">
+				<a class="btn btn-primary" href="../downloads/RyanGrier-Resume.pdf" download>
+					<svg width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5"><path d="M21 15v4a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2v-4"></path><polyline points="7 10 12 15 17 10"></polyline><line x1="12" y1="15" x2="12" y2="3"></line></svg>
+					Download PDF Resume
+				</a>
 			</div>
 		</main>
-		
-		<footer class="text-center text-lg-start">
-		  <!-- Copyright -->
-		  <div class="text-center p-3">
-			© 2026 All rights reserved. 
-			<a class="text-body" href="https://www.ryangrier.com/">ryangrier.com</a>
-		  </div>
-		  <!-- Copyright -->
-		</footer>
-	</body>
-	
-</html>
 
+		<div class="divider"></div>
+
+		<!-- Experience Section -->
+		<section class="section">
+			<h2 class="section-title">Experience</h2>
+
+			<div class="item-list">
+				<!-- Vanguard -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Vanguard</div>
+							<div class="item-subtitle">Application Engineering Technical Lead - II</div>
+						</div>
+						<span class="item-date">Jun 2025 — Present</span>
+					</div>
+				</div>
+
+				<!-- Slice -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Slice</div>
+							<div class="item-subtitle">Staff iOS Engineer</div>
+						</div>
+						<span class="item-date">Aug 2021 — Jun 2025</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Contributor to Command Center iOS team to design and develop Owner's Portal iOS app utilizing Swift, SwiftUI, Swift Testing, iOS 15+, RxSwift, and Combine.</li>
+						<li>Contributor to Consumer iOS team to design and develop iOS app utilizing Swift, SwiftUI, Quick/Nimble iOS 15+, RxSwift, and Combine.</li>
+						<li>Designed and implemented card-scanning software using Apple’s Vision Framework.</li>
+						<li>Lead accessibility efforts to make the iOS App ADA-compliant.</li>
+						<li>Lead efforts to identify and reduce teams' technical debt.</li>
+						<li>Contributor to SwiftUI-based component library.</li>
+						<li>Winner of the Fall 2022 and overall 2022 Slice Hackathons.</li>
+					</ul>
+				</div>
+
+
+
+				<!-- Warner Bros Digital Labs -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Warner Bros. Digital Labs</div>
+							<div class="item-subtitle">Sr Software Engineer (iOS)</div>
+						</div>
+						<span class="item-date">Jan 2019 — Aug 2021</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Contributor on iOS team to design and develop multiple iOS and tvOS apps utilizing Swift, iOS 11+, Storyboards, Auto Layout, and Realm.</li>
+						<li>Lead iOS developer on DC Universe and DC UNIVERSE INFINITE.</li>
+						<li>Lead iOS developer on Boomerang - Cartoons & Movies.</li>
+						<li>Led efforts to design and develop a comic book streaming mechanism iOS for DC Universe and DC UNIVERSE INFINITE.</li>
+						<li>Developed multiple internal libraries utilized by DC Universe, DC UNIVERSE INFINITE, and Boomerang.</li>
+						<li>Boomerang and DC Universe have been featured on the App Store multiple times.</li>
+					</ul>
+				</div>
+
+				<!-- Comcast -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Comcast</div>
+							<div class="item-subtitle">Principal iOS Engineer</div>
+						</div>
+						<span class="item-date">Oct 2018 — Jan 2019</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Contributor on Xfinity Home iOS app and Xfinity Home Video team.</li>
+					</ul>
+				</div>
+
+				<!-- Warner Bros Digital Labs (Software Engineer) -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Warner Bros. Digital Labs</div>
+							<div class="item-subtitle">Software Engineer (iOS)</div>
+						</div>
+						<span class="item-date">Jul 2016 — Oct 2018</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Contributor on iOS team to design and develop multiple iOS and tvOS apps utilizing Objective-C, Swift, iOS 10+, Storyboards, Auto Layout, and Realm.</li>
+						<li>Led efforts to rewrite the DramaFever tvOS app from the ground up.</li>
+						<li>Contributor on Boomerang - Cartoons & Movies to deliver initial app acceleratedly.</li>
+						<li>Led efforts to design and develop a comic book reader & download mechanism for iOS and tvOS for DC Universe.</li>
+					</ul>
+				</div>
+
+				<!-- Comcast Interactive Media -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Comcast Interactive Media</div>
+							<div class="item-subtitle">Principal iOS Engineer</div>
+						</div>
+						<span class="item-date">Sep 2013 — Jul 2016</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Led team of developers (locally and offsite) to design and develop Xfinity Home iOS mobile app utilizing Objective-C, Swift, iOS 8+, Storyboards, Auto Layout, HAL, and Core Data.</li>
+						<li>Led efforts to design and develop 24/7 Video Recording in the iOS app.</li>
+						<li>Designed and developed a remote logging service that enables application health monitoring.</li>
+						<li>Led efforts to automate the iOS build system for Xfinity Home and other Comcast iOS apps.</li>
+					</ul>
+				</div>
+
+				<!-- Barclaycard -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Barclaycard</div>
+							<div class="item-subtitle">Mobile Engineer Tech Lead</div>
+						</div>
+						<span class="item-date">Dec 2011 — Sep 2013</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Led team of developers to design and develop Mobile Payments app for iOS utilizing Objective-C, iOS 5+, Storyboards, SQLite, and Paydiant SDK.</li>
+						<li>Provided mobile and web-service rapid prototypes utilizing Objective-C, Java (Android), PhoneGap, HTML5, JQuery Mobile, and CoreData.</li>
+						<li>Designed and developed Peek functionality for iOS. A patent was granted for this work.</li>
+					</ul>
+				</div>
+
+				<!-- NAVTEQ -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">NAVTEQ</div>
+							<div class="item-subtitle">Senior Mobile Engineer</div>
+						</div>
+						<span class="item-date">Nov 2010 — Dec 2011</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Designed and developed NAVTEQ Mapping SDK for iOS utilizing Objective-C, iOS 3.x, YAJL, and OCUnit.</li>
+						<li>Assisted Trapster iOS app transition from Google MapKit to NAVTEQ SDK (14+ million users).</li>
+					</ul>
+				</div>
+
+				<!-- Guideworks/Comcast -->
+				<div class="item-row" style="flex-direction: column; align-items: flex-start; gap: 0.25rem;">
+					<div class="item-row-header">
+						<div class="item-left">
+							<div class="item-title">Guideworks / Comcast</div>
+							<div class="item-subtitle">Engineer 4</div>
+						</div>
+						<span class="item-date">Oct 2005 — Nov 2010</span>
+					</div>
+					<ul class="detail-bullets">
+						<li>Developed Comcast’s MyDVR product utilizing Java 1.5, Oracle 10g, Hibernate, Spring Framework, XFire, JBoss, JUnit, and JMeter.</li>
+					</ul>
+				</div>
+
+				<!-- Siemens Medical Solutions -->
+				<div class="item-row">
+					<div class="item-left">
+						<div class="item-title">Siemens Medical Solutions</div>
+						<div class="item-subtitle">Software Engineer</div>
+					</div>
+					<span class="item-date">Apr 2004 — Oct 2005</span>
+				</div>
+
+				<!-- CentraView -->
+				<div class="item-row">
+					<div class="item-left">
+						<div class="item-title">CentraView, LLC</div>
+						<div class="item-subtitle">Java Programmer</div>
+					</div>
+					<span class="item-date">Sep 2003 — Apr 2004</span>
+				</div>
+
+				<!-- Appligent -->
+				<div class="item-row">
+					<div class="item-left">
+						<div class="item-title">Appligent</div>
+						<div class="item-subtitle">Programmer</div>
+					</div>
+					<span class="item-date">Sep 2002 — Sep 2003</span>
+				</div>
+
+				<!-- IBSi -->
+				<div class="item-row">
+					<div class="item-left">
+						<div class="item-title">IBSi</div>
+						<div class="item-subtitle">Programmer Analyst</div>
+					</div>
+					<span class="item-date">Jul 2000 — Aug 2002</span>
+				</div>
+			</div>
+		</section>
+
+		<div class="divider"></div>
+
+		<!-- Patents Section -->
+		<section class="section">
+			<h2 class="section-title">Patents</h2>
+			<div class="item-list">
+				<a class="item-row link-row" href="https://patents.google.com/patent/US11424930B2" target="_blank" rel="noopener">
+					<div class="item-left">
+						<div class="item-title">US11424930B2 ↗</div>
+						<div class="item-subtitle">Systems and methods for providing account information</div>
+					</div>
+					<span class="item-date">2022</span>
+				</a>
+			</div>
+		</section>
+
+		<div class="divider"></div>
+
+		<!-- Education Section -->
+		<section class="section">
+			<h2 class="section-title">Education</h2>
+			<div class="item-list">
+				<div class="item-row">
+					<div class="item-left">
+						<div class="item-title">Penn State Great Valley</div>
+						<div class="item-subtitle">Master of Science, Software Engineering</div>
+					</div>
+					<span class="item-date">2002 — 2004</span>
+				</div>
+				<div class="item-row">
+					<div class="item-left">
+						<div class="item-title">Millersville University of Pennsylvania</div>
+						<div class="item-subtitle">Bachelor of Science, Computer Science</div>
+					</div>
+					<span class="item-date">1997 — 2001</span>
+				</div>
+			</div>
+		</section>
+
+	</div>
+
+	<!-- Footer -->
+	<footer class="site-footer">
+		<p>© 2026 Ryan Grier. All rights reserved.</p>
+		<p><a href="https://www.ryangrier.com/">ryangrier.com</a> • <a href="https://www.ryangrier.blog/" target="_blank" rel="noopener">Blog</a></p>
+	</footer>
+</body>
+</html>
