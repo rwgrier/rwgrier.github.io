@@ -481,6 +481,19 @@ body {
   line-height: 1.4;
 }
 
+.defaults-pick a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-underline-offset: 0.2em;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.defaults-pick a:hover {
+  color: var(--accent-color);
+  text-decoration-color: currentColor;
+}
+
 .defaults-note {
   font-weight: 400;
   font-size: 0.9375rem;
