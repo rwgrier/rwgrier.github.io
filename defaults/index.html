@@ -1,0 +1,197 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Ryan Grier — Defaults</title>
+	<meta name="description" content="The apps, hardware, and analog tools Ryan Grier reaches for by default.">
+	
+	<link rel="me" href="https://mastodon.social/@rwgrier">
+	<link rel="stylesheet" href="../css/style.css">
+	
+	<script>
+		(function() {
+			const savedTheme = localStorage.getItem('theme');
+			if (savedTheme) {
+				document.documentElement.setAttribute('data-theme', savedTheme);
+			}
+		})();
+
+		function toggleTheme() {
+			const currentTheme = document.documentElement.getAttribute('data-theme') || 
+				(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+			const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+			document.documentElement.setAttribute('data-theme', newTheme);
+			localStorage.setItem('theme', newTheme);
+		}
+	</script>
+</head>
+
+<body>
+	<div class="site-container">
+		
+		<!-- Header Nav -->
+		<header class="top-nav">
+			<a class="brand-title" href="../">Ryan Grier</a>
+			<nav>
+				<ul class="nav-links">
+					<li><a class="nav-link" href="../">Home</a></li>
+					<li><a class="nav-link" href="../resume/">Resume</a></li>
+					<li><a class="nav-link active" aria-current="page" href="./">Defaults</a></li>
+					<li>
+						<button class="theme-toggle-btn" onclick="toggleTheme()" aria-label="Toggle theme">
+							<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+								<circle cx="12" cy="12" r="5"></circle>
+								<line x1="12" y1="1" x2="12" y2="3"></line>
+								<line x1="12" y1="21" x2="12" y2="23"></line>
+								<line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+								<line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+								<line x1="1" y1="12" x2="3" y2="12"></line>
+								<line x1="21" y1="12" x2="23" y2="12"></line>
+								<line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+								<line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+							</svg>
+						</button>
+					</li>
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Defaults Header -->
+		<main class="hero">
+			<h1 class="hero-title">Defaults</h1>
+			<p class="hero-bio">
+				The apps, hardware, and analog tools I reach for by default. Inspired by Robb Knight&rsquo;s <a href="https://defaults.rknight.me" target="_blank" rel="noopener noreferrer">App Defaults</a> and The Pen Addict&rsquo;s <a href="https://www.penaddict.com/analog-defaults" target="_blank" rel="noopener noreferrer">Analog Defaults</a>.
+			</p>
+			<nav class="defaults-jump" aria-label="On this page">
+				<a href="#app">App</a>
+				<a href="#hardware">Hardware</a>
+				<a href="#analog">Analog</a>
+				<a href="#changelog">Changelog</a>
+			</nav>
+			<p class="defaults-updated">Last updated <time datetime="2026-11-26">November 26, 2026</time></p>
+		</main>
+
+		<div class="divider"></div>
+
+		<section class="section" id="app">
+			<h2 class="section-title">App defaults</h2>
+			<dl class="defaults-list">
+				<div class="defaults-row">
+					<dt class="defaults-cat">Mail Client</dt>
+					<dd class="defaults-pick"><a href="https://apps.apple.com/us/app/mail/id1108187098" target="_blank" rel="noopener noreferrer">Apple Mail</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Mail Server</dt>
+					<dd class="defaults-pick"><a href="https://www.google.com/gmail/about/" target="_blank" rel="noopener noreferrer">Gmail</a> and <a href="https://www.fastmail.com/" target="_blank" rel="noopener noreferrer">Fastmail</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Notes</dt>
+					<dd class="defaults-pick"><a href="https://obsidian.md/" target="_blank" rel="noopener noreferrer">Obsidian</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">To-Do</dt>
+					<dd class="defaults-pick"><a href="https://culturedcode.com/things/" target="_blank" rel="noopener noreferrer">Things 3</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Calendar</dt>
+					<dd class="defaults-pick"><a href="https://readdle.com/calendars" target="_blank" rel="noopener noreferrer">Calendars</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">RSS</dt>
+					<dd class="defaults-pick"><a href="https://birchfeed.app/reader" target="_blank" rel="noopener noreferrer">Birchfeed</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Browser</dt>
+					<dd class="defaults-pick"><a href="https://www.apple.com/safari/" target="_blank" rel="noopener noreferrer">Safari</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Bookmarks</dt>
+					<dd class="defaults-pick"><a href="https://goodlinks.app/" target="_blank" rel="noopener noreferrer">GoodLinks</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Music</dt>
+					<dd class="defaults-pick"><a href="https://roon.app/en/" target="_blank" rel="noopener noreferrer">Roon</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Podcasts</dt>
+					<dd class="defaults-pick"><a href="https://benricemccarthy.com/tripod/" target="_blank" rel="noopener noreferrer">Tripod</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Code Editor</dt>
+					<dd class="defaults-pick"><a href="https://developer.apple.com/xcode/" target="_blank" rel="noopener noreferrer">Xcode</a>, <a href="https://www.barebones.com/products/bbedit/" target="_blank" rel="noopener noreferrer">BBEdit</a>, and <a href="https://nova.app/" target="_blank" rel="noopener noreferrer">Nova</a></dd>
+				</div>
+			</dl>
+		</section>
+
+		<div class="divider"></div>
+
+		<section class="section" id="hardware">
+			<h2 class="section-title">Hardware</h2>
+			<dl class="defaults-list">
+				<div class="defaults-row">
+					<dt class="defaults-cat">Laptop</dt>
+					<dd class="defaults-pick">MacBook Air</dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Desktop</dt>
+					<dd class="defaults-pick">Mac Studio (M5 Max)</dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Tablet</dt>
+					<dd class="defaults-pick">iPad mini</dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Phone</dt>
+					<dd class="defaults-pick">iPhone 17 Pro</dd>
+				</div>
+			</dl>
+		</section>
+
+		<div class="divider"></div>
+
+		<section class="section" id="analog">
+			<h2 class="section-title">Analog defaults</h2>
+			<dl class="defaults-list">
+				<div class="defaults-row">
+					<dt class="defaults-cat">Gel Ink Pen</dt>
+					<dd class="defaults-pick"><a href="https://www.unibrands.co/products/207-gel-pens?variant=39362234417358" target="_blank" rel="noopener noreferrer">uniball 207 Gel</a> <span class="defaults-note">(black ink)</span></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Rollerball Pen</dt>
+					<dd class="defaults-pick"><a href="https://uniballco.com/vision-elite/" target="_blank" rel="noopener noreferrer">uniball Vision Elite</a> <span class="defaults-note">(black)</span></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Pencil</dt>
+					<dd class="defaults-pick"><a href="https://blackwing602.com/products/blackwing-602-set-of-12" target="_blank" rel="noopener noreferrer">Blackwing 602</a></dd>
+				</div>
+				<div class="defaults-row">
+					<dt class="defaults-cat">Notebooks</dt>
+					<dd class="defaults-pick"><a href="https://fieldnotesbrand.com/" target="_blank" rel="noopener noreferrer">Field Notes</a> and <a href="https://www.leuchtturm1917.us/collections/notebooks-1" target="_blank" rel="noopener noreferrer">LEUCHTTURM1917</a></dd>
+				</div>
+			</dl>
+		</section>
+
+		<div class="divider"></div>
+
+		<section class="section" id="changelog">
+			<h2 class="section-title">Changelog</h2>
+			<ul class="item-list defaults-changelog">
+				<li class="item-row">
+					<div class="item-left">
+						<div class="item-subtitle">First version of this page.</div>
+					</div>
+					<time class="item-date" datetime="2026-11-26">Nov 26, 2026</time>
+				</li>
+			</ul>
+		</section>
+	</div>
+
+	<!-- Footer -->
+	<footer class="site-footer">
+		<p>© 2026 Ryan Grier. All rights reserved.</p>
+		<p><a href="https://www.ryangrier.com/">ryangrier.com</a> • <a href="https://www.ryangrier.blog/" target="_blank" rel="noopener noreferrer">Blog</a></p>
+	</footer>
+</body>
+</html>
