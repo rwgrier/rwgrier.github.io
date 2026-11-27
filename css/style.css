@@ -510,6 +510,12 @@ body {
   list-style: none;
 }
 
+/* Now Page */
+.now-list {
+  font-size: 1.0625rem;
+  margin-top: 0;
+}
+
 /* Accessibility: Prefers Reduced Motion */
 @media (prefers-reduced-motion: reduce) {
   html {
