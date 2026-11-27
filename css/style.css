@@ -516,6 +516,19 @@ body {
   margin-top: 0;
 }
 
+.now-list a {
+  color: var(--text-main);
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-underline-offset: 0.2em;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.now-list a:hover {
+  color: var(--accent-color);
+  text-decoration-color: currentColor;
+}
+
 /* Accessibility: Prefers Reduced Motion */
 @media (prefers-reduced-motion: reduce) {
   html {
