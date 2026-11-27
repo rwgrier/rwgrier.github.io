@@ -413,6 +413,122 @@ body {
   gap: 0.25rem;
 }
 
+/* Defaults Page */
+.hero-bio a {
+  color: var(--text-main);
+  text-decoration: underline;
+  text-underline-offset: 0.15em;
+  transition: color 0.2s;
+}
+
+.hero-bio a:hover {
+  color: var(--accent-color);
+}
+
+.defaults-jump {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+}
+
+.defaults-jump a {
+  padding: 0.35rem 0.875rem;
+  border-radius: 999px;
+  background-color: var(--badge-bg);
+  color: var(--badge-text);
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-decoration: none;
+  transition: color 0.2s;
+}
+
+.defaults-jump a:hover {
+  color: var(--text-main);
+}
+
+.defaults-updated {
+  font-size: 0.875rem;
+  color: var(--text-subtle);
+}
+
+.defaults-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.defaults-row {
+  display: grid;
+  grid-template-columns: minmax(10rem, 14rem) 1fr;
+  gap: 1rem;
+  padding: 0.625rem 0;
+  border-bottom: 1px solid var(--border-color);
+}
+
+.defaults-row:last-child {
+  border-bottom: none;
+}
+
+.defaults-cat {
+  font-size: 0.9375rem;
+  color: var(--text-muted);
+  line-height: 1.4;
+}
+
+.defaults-pick {
+  font-size: 1.0625rem;
+  font-weight: 600;
+  color: var(--text-main);
+  line-height: 1.4;
+}
+
+.defaults-pick a {
+  color: inherit;
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-underline-offset: 0.2em;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.defaults-pick a:hover {
+  color: var(--accent-color);
+  text-decoration-color: currentColor;
+}
+
+.defaults-note {
+  font-weight: 400;
+  font-size: 0.9375rem;
+  color: var(--text-muted);
+}
+
+.defaults-tbd {
+  font-weight: 400;
+  font-style: italic;
+  color: var(--text-subtle);
+}
+
+.defaults-changelog {
+  list-style: none;
+}
+
+/* Now Page */
+.now-list {
+  font-size: 1.0625rem;
+  margin-top: 0;
+}
+
+.now-list a {
+  color: var(--text-main);
+  text-decoration: underline;
+  text-decoration-color: var(--border-color);
+  text-underline-offset: 0.2em;
+  transition: color 0.2s, text-decoration-color 0.2s;
+}
+
+.now-list a:hover {
+  color: var(--accent-color);
+  text-decoration-color: currentColor;
+}
+
 /* Accessibility: Prefers Reduced Motion */
 @media (prefers-reduced-motion: reduce) {
   html {
@@ -468,5 +584,10 @@ body {
 
   .item-date {
     margin-left: 0;
+  }
+
+  .defaults-row {
+    grid-template-columns: 1fr;
+    gap: 0.15rem;
   }
 }

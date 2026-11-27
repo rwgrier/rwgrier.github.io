@@ -1,0 +1,116 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Ryan Grier — Now</title>
+	<meta name="description" content="What Ryan Grier is focused on right now.">
+	
+	<link rel="me" href="https://mastodon.social/@rwgrier">
+	<link rel="stylesheet" href="../css/style.css">
+	
+	<script>
+		(function() {
+			const savedTheme = localStorage.getItem('theme');
+			if (savedTheme) {
+				document.documentElement.setAttribute('data-theme', savedTheme);
+			}
+		})();
+
+		function toggleTheme() {
+			const currentTheme = document.documentElement.getAttribute('data-theme') || 
+				(window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+			const newTheme = currentTheme === 'dark' ? 'light' : 'dark';
+			document.documentElement.setAttribute('data-theme', newTheme);
+			localStorage.setItem('theme', newTheme);
+		}
+	</script>
+</head>
+
+<body>
+	<div class="site-container">
+		
+		<!-- Header Nav -->
+		<header class="top-nav">
+			<a class="brand-title" href="../">Ryan Grier</a>
+			<nav>
+				<ul class="nav-links">
+					<li><a class="nav-link" href="../">Home</a></li>
+					<li><a class="nav-link" href="../resume/">Resume</a></li>
+					<li><a class="nav-link" href="../defaults/">Defaults</a></li>
+					<li><a class="nav-link active" aria-current="page" href="./">Now</a></li>
+					<li>
+						<button class="theme-toggle-btn" onclick="toggleTheme()" aria-label="Toggle theme">
+							<svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+								<circle cx="12" cy="12" r="5"></circle>
+								<line x1="12" y1="1" x2="12" y2="3"></line>
+								<line x1="12" y1="21" x2="12" y2="23"></line>
+								<line x1="4.22" y1="4.22" x2="5.64" y2="5.64"></line>
+								<line x1="18.36" y1="18.36" x2="19.78" y2="19.78"></line>
+								<line x1="1" y1="12" x2="3" y2="12"></line>
+								<line x1="21" y1="12" x2="23" y2="12"></line>
+								<line x1="4.22" y1="19.78" x2="5.64" y2="18.36"></line>
+								<line x1="18.36" y1="5.64" x2="19.78" y2="4.22"></line>
+							</svg>
+						</button>
+					</li>
+				</ul>
+			</nav>
+		</header>
+
+		<!-- Now Header -->
+		<main class="hero">
+			<h1 class="hero-title">Now</h1>
+			<p class="hero-bio">
+				What I&rsquo;m focused on at this point in my life. This is a <a href="https://nownownow.com/about" target="_blank" rel="noopener noreferrer">now page</a>, and if you have your own site, you should make one too.
+			</p>
+			<p class="defaults-updated">Last updated <time datetime="2026-11-26">November 26, 2026</time></p>
+		</main>
+
+		<div class="divider"></div>
+
+		<section class="section">
+			<h2 class="section-title">Building</h2>
+			<ul class="detail-bullets now-list">
+				<li>Maintaining <a href="https://www.beerstyleguidelines.app" target="_blank" rel="noopener noreferrer">Beer Style Guidelines</a>.</li>
+				<li>Rebuilding <a href="https://mycntdwn.com" target="_blank" rel="noopener noreferrer">MyCntdwn</a> from scratch. I hope to have more to announce early next year.</li>
+			</ul>
+		</section>
+
+		<div class="divider"></div>
+
+		<section class="section">
+			<h2 class="section-title">Tinkering</h2>
+			<ul class="detail-bullets now-list">
+				<li>Running AI models locally on my Mac Studio, and moving to cheaper AI plans by early 2027.</li>
+			</ul>
+		</section>
+
+		<div class="divider"></div>
+
+		<section class="section">
+			<h2 class="section-title">Simplifying</h2>
+			<ul class="detail-bullets now-list">
+				<li>Planning for 2027, a year of simplification: fewer subscriptions, purchases, and apps.</li>
+			</ul>
+		</section>
+
+		<div class="divider"></div>
+
+		<section class="section">
+			<h2 class="section-title">Off the clock</h2>
+			<ul class="detail-bullets now-list">
+				<li>Reading, watching sports, TV shows, and movies.</li>
+				<li>Cooking and getting fit.</li>
+			</ul>
+		</section>
+	</div>
+
+	<!-- Footer -->
+	<footer class="site-footer">
+		<p>© 2026 Ryan Grier. All rights reserved.</p>
+		<p><a href="https://www.ryangrier.com/">ryangrier.com</a> • <a href="https://www.ryangrier.blog/" target="_blank" rel="noopener noreferrer">Blog</a></p>
+	</footer>
+</body>
+</html>
